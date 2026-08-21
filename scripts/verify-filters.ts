@@ -43,19 +43,39 @@ assert(missile.includes('Harmony'), 'Harmony bows');
 assert(missile.includes('Insight'), 'Insight can be a missile weapon');
 
 const ladder = names({ ladder: 'ladder' });
-assert(ladder.includes('Hustle'), 'Hustle is ladder only');
-assert(ladder.includes('Mania'), 'LoD ladder-only RotW words match Ladder only');
-assert(ladder.includes('Bulwark'), '2.6 helm words are still ladder only in LoD');
-assert(!ladder.includes('Mosaic'), 'Mosaic is not ladder only');
-assert(!ladder.includes('Enigma'), 'unrestricted words must not match Ladder only');
-assert(ladder.length === 9, `expected 9 ladder-only words, got ${ladder.length}`);
+assert(ladder.includes('Hustle'), 'Hustle is ladder');
+assert(!ladder.includes('Mosaic'), 'Mosaic is not ladder');
+assert(!ladder.includes('Enigma'), 'unrestricted words are not ladder');
+assert(!ladder.includes('Mania'), 'dual-availability words are not ladder');
+assert(
+  ladder.every((name) => {
+    const runeword = runewords.find((item) => item.name === name);
+    return runeword?.ladderStatus === 'ladder';
+  }),
+  'Ladder filter must use ladderStatus',
+);
+assert(ladder.length === 1, `expected 1 ladder word, got ${ladder.length}`);
 
 const nonLadder = names({ ladder: 'nonLadder' });
-assert(nonLadder.includes('Mosaic'), 'Mosaic is non-ladder only');
+assert(nonLadder.includes('Mosaic'), 'Mosaic is non-ladder');
 assert(!nonLadder.includes('Hustle'), 'Hustle is not non-ladder');
-assert(!nonLadder.includes('Enigma'), 'unrestricted words must not match Non-Ladder only');
-assert(!nonLadder.includes('Mania'), 'LoD ladder words are not non-ladder only');
-assert(nonLadder.length === 1, `expected 1 non-ladder-only word, got ${nonLadder.length}`);
+assert(!nonLadder.includes('Enigma'), 'unrestricted words are not non-ladder');
+assert(
+  nonLadder.every((name) => {
+    const runeword = runewords.find((item) => item.name === name);
+    return runeword?.ladderStatus === 'nonLadder';
+  }),
+  'Non-Ladder filter must use ladderStatus',
+);
+assert(nonLadder.length === 1, `expected 1 non-ladder word, got ${nonLadder.length}`);
+
+assert(names({ ladder: 'all' }).length === 100, 'All shows every runeword');
+assert(
+  runewords.every((runeword) =>
+    ['ladder', 'nonLadder', 'all'].includes(runeword.ladderStatus),
+  ),
+  'every runeword has a ladderStatus property',
+);
 
 const paladin = names({ itemType: 'Paladin Shields' });
 assert(paladin.includes('Exile'), 'Exile paladin shields');
