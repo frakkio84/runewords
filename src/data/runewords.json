@@ -1,0 +1,5733 @@
+[
+  {
+    "id": "mania-t1674022",
+    "name": "Mania",
+    "url": "https://diablo2.io/runewords/mania-t1674022.html",
+    "patch": "3.0",
+    "version": "New in RotW",
+    "level": 39,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Ko",
+      "Eld"
+    ],
+    "itemTypes": [
+      "Weapons"
+    ],
+    "itemGroups": [
+      "Weapons"
+    ],
+    "stats": [
+      "5% Chance to cast level 1 Burst of Speed on striking",
+      "Level 1 Fanaticism Aura When Equipped",
+      "+30% Increased Attack Speed",
+      "+180-200% Enhanced Damage",
+      "+75% Damage to Undead",
+      "+50 to Attack Rating against Undead",
+      "+10 to Dexterity"
+    ],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 3,
+        "stats": [
+          "5% Chance to cast level 1 Burst of Speed on striking",
+          "Level 1 Fanaticism Aura When Equipped",
+          "+30% Increased Attack Speed",
+          "+180-200% Enhanced Damage",
+          "+75% Damage to Undead",
+          "+50 to Attack Rating against Undead",
+          "+10 to Dexterity"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW"
+  },
+  {
+    "id": "hysteria-t1674021",
+    "name": "Hysteria",
+    "url": "https://diablo2.io/runewords/hysteria-t1674021.html",
+    "patch": "3.0",
+    "version": "New in RotW",
+    "level": 39,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Ko",
+      "Eld"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+65% Faster Run/Walk",
+      "+40% Increased Attack Speed",
+      "+20% Faster Hit Recovery",
+      "+6 to Evade",
+      "+10 to Dexterity",
+      "50% Slower Stamina Drain",
+      "+All Resistances +10"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "+65% Faster Run/Walk",
+          "+40% Increased Attack Speed",
+          "+20% Faster Hit Recovery",
+          "+6 to Evade",
+          "+10 to Dexterity",
+          "50% Slower Stamina Drain",
+          "+All Resistances +10"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW"
+  },
+  {
+    "id": "metamorphosis-t1282120",
+    "name": "Metamorphosis",
+    "url": "https://diablo2.io/runewords/metamorphosis-t1282120.html",
+    "patch": "2.6",
+    "version": "New in 2.6",
+    "level": 67,
+    "sockets": 3,
+    "runes": [
+      "Io",
+      "Cham",
+      "Fal"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Werewolf strikes grant Mark for 180 seconds",
+      "Mark of the Wolf:",
+      "+30% Bonus to Attack Rating",
+      "Increase Maximum Life 40%",
+      "Werebear strikes grant Mark for 180 seconds",
+      "Mark of the Bear:",
+      "+25% Attack Speed",
+      "Physical Damage Received Reduced by 20%",
+      "+5 to Shape Shifting Skills (Druid only)",
+      "+25% Chance of Crushing Blow",
+      "+50-80% Enhanced Defense",
+      "+10 to Strength",
+      "+10 to Vitality",
+      "All Resistances +10",
+      "Cannot be Frozen"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "Werewolf strikes grant Mark for 180 seconds",
+          "Mark of the Wolf:",
+          "+30% Bonus to Attack Rating",
+          "Increase Maximum Life 40%",
+          "Werebear strikes grant Mark for 180 seconds",
+          "Mark of the Bear:",
+          "+25% Attack Speed",
+          "Physical Damage Received Reduced by 20%",
+          "+5 to Shape Shifting Skills (Druid only)",
+          "+25% Chance of Crushing Blow",
+          "+50-80% Enhanced Defense",
+          "+10 to Strength",
+          "+10 to Vitality",
+          "All Resistances +10",
+          "Cannot be Frozen"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW"
+  },
+  {
+    "id": "ground-t1282115",
+    "name": "Ground",
+    "url": "https://diablo2.io/runewords/ground-t1282115.html",
+    "patch": "2.6",
+    "version": "New in 2.6",
+    "level": 35,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Io",
+      "Ort"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+20% Faster Hit Recovery",
+      "+75-100% Enhanced Defense",
+      "+10 to Vitality",
+      "Increase Maximum Life 5%",
+      "Lightning Resist +40-60%",
+      "Lightning Absorb +10-15%"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "+20% Faster Hit Recovery",
+          "+75-100% Enhanced Defense",
+          "+10 to Vitality",
+          "Increase Maximum Life 5%",
+          "Lightning Resist +40-60%",
+          "Lightning Absorb +10-15%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW"
+  },
+  {
+    "id": "temper-t1282117",
+    "name": "Temper",
+    "url": "https://diablo2.io/runewords/temper-t1282117.html",
+    "patch": "2.6",
+    "version": "New in 2.6",
+    "level": 35,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Io",
+      "Ral"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+20% Faster Hit Recovery",
+      "+75-100% Enhanced Defense",
+      "+10 to Vitality",
+      "Increase Maximum Life 5%",
+      "Fire Resist +40-60%",
+      "Fire Absorb +10-15%"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "+20% Faster Hit Recovery",
+          "+75-100% Enhanced Defense",
+          "+10 to Vitality",
+          "Increase Maximum Life 5%",
+          "Fire Resist +40-60%",
+          "Fire Absorb +10-15%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW"
+  },
+  {
+    "id": "hearth-t1282116",
+    "name": "Hearth",
+    "url": "https://diablo2.io/runewords/hearth-t1282116.html",
+    "patch": "2.6",
+    "version": "New in 2.6",
+    "level": 35,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Io",
+      "Thul"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+20% Faster Hit Recovery",
+      "+75-100% Enhanced Defense",
+      "+10 to Vitality",
+      "Increase Maximum Life 5%",
+      "Cold Resist +40-60%",
+      "Cold Absorb +10-15%",
+      "Cannot be Frozen"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "+20% Faster Hit Recovery",
+          "+75-100% Enhanced Defense",
+          "+10 to Vitality",
+          "Increase Maximum Life 5%",
+          "Cold Resist +40-60%",
+          "Cold Absorb +10-15%",
+          "Cannot be Frozen"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW"
+  },
+  {
+    "id": "cure-t1282114",
+    "name": "Cure",
+    "url": "https://diablo2.io/runewords/cure-t1282114.html",
+    "patch": "2.6",
+    "version": "New in 2.6",
+    "level": 35,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Io",
+      "Tal"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 1 Cleansing Aura when Equipped",
+      "+20% Faster Hit Recovery",
+      "+75-100% Enhanced Defense",
+      "+10 to Vitality",
+      "Increase Maximum Life 5%",
+      "Poison Resist +40-60%",
+      "Poison Length Reduced by 50%"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "Level 1 Cleansing Aura when Equipped",
+          "+20% Faster Hit Recovery",
+          "+75-100% Enhanced Defense",
+          "+10 to Vitality",
+          "Increase Maximum Life 5%",
+          "Poison Resist +40-60%",
+          "Poison Length Reduced by 50%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW"
+  },
+  {
+    "id": "bulwark-t1282113",
+    "name": "Bulwark",
+    "url": "https://diablo2.io/runewords/bulwark-t1282113.html",
+    "patch": "2.6",
+    "version": "New in 2.6",
+    "level": 35,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Io",
+      "Sol"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+20% Faster Hit Recovery",
+      "+4-6% Life stolen per hit",
+      "+75-100% Enhanced Defense",
+      "+10 to Vitality",
+      "Increase Maximum Life 5%",
+      "Replenish Life +30",
+      "Damage Reduced by 7",
+      "Physical Damage Received Reduced by 10-15%"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "+20% Faster Hit Recovery",
+          "+4-6% Life stolen per hit",
+          "+75-100% Enhanced Defense",
+          "+10 to Vitality",
+          "Increase Maximum Life 5%",
+          "Replenish Life +30",
+          "Damage Reduced by 7",
+          "Physical Damage Received Reduced by 10-15%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW"
+  },
+  {
+    "id": "authority-t1673934",
+    "name": "Authority",
+    "url": "https://diablo2.io/runewords/authority-t1673934.html",
+    "patch": "3.0",
+    "version": "New in RotW",
+    "level": 29,
+    "sockets": 3,
+    "runes": [
+      "Hel",
+      "Shael",
+      "Ral"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "2% Chance to cast level 10 Psychic Ward when struck",
+      "10% Chance to cast level 15 Miasma Chain on striking",
+      "+2 to Warlock Skill Levels",
+      "+40-60% Enhanced Damage",
+      "Requirements -15%",
+      "+20% Faster Hit Recovery",
+      "Fire Resist +30%"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "2% Chance to cast level 10 Psychic Ward when struck",
+          "10% Chance to cast level 15 Miasma Chain on striking",
+          "+2 to Warlock Skill Levels",
+          "+40-60% Enhanced Damage",
+          "Requirements -15%",
+          "+20% Faster Hit Recovery",
+          "Fire Resist +30%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "death-t1226",
+    "name": "Death",
+    "url": "https://diablo2.io/runewords/death-t1226.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 55,
+    "sockets": 5,
+    "runes": [
+      "Hel",
+      "El",
+      "Vex",
+      "Ort",
+      "Gul"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Axes"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "100% Chance To Cast Level 44 Chain Lightning When You Die",
+      "25% Chance To Cast Level 18 Glacial Spike On Attack",
+      "Indestructible",
+      "+300-385% Enhanced Damage",
+      "20% Bonus To Attack Rating",
+      "+50 To Attack Rating",
+      "Adds 1-50 Lightning Damage",
+      "7% Mana Stolen Per Hit",
+      "50% Chance of Crushing Blow",
+      "+(0.5 per Character Level) 0.5-49.5% Deadly Strike (Based on Character Level)",
+      "+1 To Light Radius",
+      "Level 22 Blood Golem (15 Charges)",
+      "Requirements -20%"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 5,
+        "stats": [
+          "100% Chance To Cast Level 44 Chain Lightning When You Die",
+          "25% Chance To Cast Level 18 Glacial Spike On Attack",
+          "Indestructible",
+          "+300-385% Enhanced Damage",
+          "20% Bonus To Attack Rating",
+          "+50 To Attack Rating",
+          "Adds 1-50 Lightning Damage",
+          "7% Mana Stolen Per Hit",
+          "50% Chance of Crushing Blow",
+          "+(0.5 per Character Level) 0.5-49.5% Deadly Strike (Based on Character Level)",
+          "+1 To Light Radius",
+          "Level 22 Blood Golem (15 Charges)",
+          "Requirements -20%"
+        ]
+      },
+      {
+        "itemType": "Axes",
+        "sockets": 5,
+        "stats": [
+          "100% Chance To Cast Level 44 Chain Lightning When You Die",
+          "25% Chance To Cast Level 18 Glacial Spike On Attack",
+          "Indestructible",
+          "+300-385% Enhanced Damage",
+          "20% Bonus To Attack Rating",
+          "+50 To Attack Rating",
+          "Adds 1-50 Lightning Damage",
+          "7% Mana Stolen Per Hit",
+          "50% Chance of Crushing Blow",
+          "+(0.5 per Character Level) 0.5-49.5% Deadly Strike (Based on Character Level)",
+          "+1 To Light Radius",
+          "Level 22 Blood Golem (15 Charges)",
+          "Requirements -20%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "principle-t1251",
+    "name": "Principle",
+    "url": "https://diablo2.io/runewords/principle-t1251.html",
+    "patch": "1.11",
+    "version": null,
+    "level": 53,
+    "sockets": 3,
+    "runes": [
+      "Ral",
+      "Gul",
+      "Eld"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "100% Chance To Cast Level 5 Holy Bolt On Striking",
+      "+2 To Paladin Skill Levels",
+      "+50% Damage to Undead",
+      "+100-150 To Life",
+      "15% Slower Stamina Drain",
+      "+5% To Maximum Poison Resist",
+      "Fire Resist +30%"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "100% Chance To Cast Level 5 Holy Bolt On Striking",
+          "+2 To Paladin Skill Levels",
+          "+50% Damage to Undead",
+          "+100-150 To Life",
+          "15% Slower Stamina Drain",
+          "+5% To Maximum Poison Resist",
+          "Fire Resist +30%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "infinity-t1236",
+    "name": "Infinity",
+    "url": "https://diablo2.io/runewords/infinity-t1236.html",
+    "patch": "1.10",
+    "version": "Data updated for 2.4",
+    "level": 63,
+    "sockets": 4,
+    "runes": [
+      "Ber",
+      "Mal",
+      "Ber",
+      "Ist"
+    ],
+    "itemTypes": [
+      "Polearms",
+      "Spears"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy",
+      "Level 12 Conviction Aura When Equipped",
+      "+35% Faster Run/Walk",
+      "+255-325% Enhanced Damage",
+      "-(45-55)% To Enemy Lightning Resistance",
+      "40% Chance of Crushing Blow",
+      "Prevent Monster Heal",
+      "0.5-49.5 To Vitality (Based on Character Level)",
+      "30% Better Chance of Getting Magic Items",
+      "Level 21 Cyclone Armor (30 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Polearms",
+        "sockets": 4,
+        "stats": [
+          "50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy",
+          "Level 12 Conviction Aura When Equipped",
+          "+35% Faster Run/Walk",
+          "+255-325% Enhanced Damage",
+          "-(45-55)% To Enemy Lightning Resistance",
+          "40% Chance of Crushing Blow",
+          "Prevent Monster Heal",
+          "0.5-49.5 To Vitality (Based on Character Level)",
+          "30% Better Chance of Getting Magic Items",
+          "Level 21 Cyclone Armor (30 Charges)"
+        ]
+      },
+      {
+        "itemType": "Spears",
+        "sockets": 4,
+        "stats": [
+          "50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy",
+          "Level 12 Conviction Aura When Equipped",
+          "+35% Faster Run/Walk",
+          "+255-325% Enhanced Damage",
+          "-(45-55)% To Enemy Lightning Resistance",
+          "40% Chance of Crushing Blow",
+          "Prevent Monster Heal",
+          "0.5-49.5 To Vitality (Based on Character Level)",
+          "30% Better Chance of Getting Magic Items",
+          "Level 21 Cyclone Armor (30 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "pride-t1243",
+    "name": "Pride",
+    "url": "https://diablo2.io/runewords/pride-t1243.html",
+    "patch": "1.10",
+    "version": "Data updated for 2.4",
+    "level": 67,
+    "sockets": 4,
+    "runes": [
+      "Cham",
+      "Sur",
+      "Io",
+      "Lo"
+    ],
+    "itemTypes": [
+      "Polearms",
+      "Spears"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "25% Chance To Cast Level 17 Fire Wall When Struck",
+      "Level 16-20 Concentration Aura When Equipped",
+      "260-300% Bonus To Attack Rating",
+      "+1-99% Damage To Demons (Based on Character Level)",
+      "Adds 50-280 Lightning Damage",
+      "20% Deadly Strike",
+      "Hit Blinds Target",
+      "Freezes Target +3",
+      "+10 To Vitality",
+      "Replenish Life +8",
+      "1.875-185.625% Extra Gold From Monsters (Based on Character Level)"
+    ],
+    "variants": [
+      {
+        "itemType": "Polearms",
+        "sockets": 4,
+        "stats": [
+          "25% Chance To Cast Level 17 Fire Wall When Struck",
+          "Level 16-20 Concentration Aura When Equipped",
+          "260-300% Bonus To Attack Rating",
+          "+1-99% Damage To Demons (Based on Character Level)",
+          "Adds 50-280 Lightning Damage",
+          "20% Deadly Strike",
+          "Hit Blinds Target",
+          "Freezes Target +3",
+          "+10 To Vitality",
+          "Replenish Life +8",
+          "1.875-185.625% Extra Gold From Monsters (Based on Character Level)"
+        ]
+      },
+      {
+        "itemType": "Spears",
+        "sockets": 4,
+        "stats": [
+          "25% Chance To Cast Level 17 Fire Wall When Struck",
+          "Level 16-20 Concentration Aura When Equipped",
+          "260-300% Bonus To Attack Rating",
+          "+1-99% Damage To Demons (Based on Character Level)",
+          "Adds 50-280 Lightning Damage",
+          "20% Deadly Strike",
+          "Hit Blinds Target",
+          "Freezes Target +3",
+          "+10 To Vitality",
+          "Replenish Life +8",
+          "1.875-185.625% Extra Gold From Monsters (Based on Character Level)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "treachery-t1253",
+    "name": "Treachery",
+    "url": "https://diablo2.io/runewords/treachery-t1253.html",
+    "patch": "1.11",
+    "version": null,
+    "level": 43,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Thul",
+      "Lem"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "5% Chance To Cast Level 15 Fade When Struck",
+      "25% Chance To Cast level 15 Venom: Skill On Striking",
+      "+2 To Assassin Skill Levels",
+      "+45% Increased Attack Speed",
+      "+20% Faster Hit Recovery",
+      "Cold Resist +30%",
+      "50% Extra Gold From Monsters"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "5% Chance To Cast Level 15 Fade When Struck",
+          "25% Chance To Cast level 15 Venom: Skill On Striking",
+          "+2 To Assassin Skill Levels",
+          "+45% Increased Attack Speed",
+          "+20% Faster Hit Recovery",
+          "Cold Resist +30%",
+          "50% Extra Gold From Monsters"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "obedience-t1241",
+    "name": "Obedience",
+    "url": "https://diablo2.io/runewords/obedience-t1241.html",
+    "patch": "1.10",
+    "version": "Data updated for 2.4",
+    "level": 41,
+    "sockets": 5,
+    "runes": [
+      "Hel",
+      "Ko",
+      "Thul",
+      "Eth",
+      "Fal"
+    ],
+    "itemTypes": [
+      "Polearms",
+      "Spears"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "30% Chance To Cast Level 21 Enchant When You Kill An Enemy",
+      "40% Faster Hit Recovery",
+      "+370% Enhanced Damage",
+      "-25% Target Defense",
+      "Adds 3-14 Cold Damage 3 Second Duration",
+      "-25% To Enemy Fire Resistance",
+      "40% Chance of Crushing Blow",
+      "+200-300 Defense",
+      "+10 To Strength",
+      "+10 To Dexterity",
+      "All Resistances +20-30",
+      "Requirements -20%"
+    ],
+    "variants": [
+      {
+        "itemType": "Polearms",
+        "sockets": 5,
+        "stats": [
+          "30% Chance To Cast Level 21 Enchant When You Kill An Enemy",
+          "40% Faster Hit Recovery",
+          "+370% Enhanced Damage",
+          "-25% Target Defense",
+          "Adds 3-14 Cold Damage 3 Second Duration",
+          "-25% To Enemy Fire Resistance",
+          "40% Chance of Crushing Blow",
+          "+200-300 Defense",
+          "+10 To Strength",
+          "+10 To Dexterity",
+          "All Resistances +20-30",
+          "Requirements -20%"
+        ]
+      },
+      {
+        "itemType": "Spears",
+        "sockets": 5,
+        "stats": [
+          "30% Chance To Cast Level 21 Enchant When You Kill An Enemy",
+          "40% Faster Hit Recovery",
+          "+370% Enhanced Damage",
+          "-25% Target Defense",
+          "Adds 3-14 Cold Damage 3 Second Duration",
+          "-25% To Enemy Fire Resistance",
+          "40% Chance of Crushing Blow",
+          "+200-300 Defense",
+          "+10 To Strength",
+          "+10 To Dexterity",
+          "All Resistances +20-30",
+          "Requirements -20%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "flickering-flame-t775675",
+    "name": "Flickering Flame",
+    "url": "https://diablo2.io/runewords/flickering-flame-t775675.html",
+    "patch": "2.4",
+    "version": "Data updated for 2.4",
+    "level": 55,
+    "sockets": 3,
+    "runes": [
+      "Nef",
+      "Pul",
+      "Vex"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 4-8 Resist Fire Aura When Equipped",
+      "+3 To Fire Skills",
+      "-10-15% To Enemy Fire Resistance",
+      "+30% Enhanced Defense",
+      "+30 Defense vs. Missile",
+      "+50-75 To Mana",
+      "Half Freeze Duration",
+      "+5% To Maximum Fire Resist",
+      "Poison Length Reduced by 50%"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "Level 4-8 Resist Fire Aura When Equipped",
+          "+3 To Fire Skills",
+          "-10-15% To Enemy Fire Resistance",
+          "+30% Enhanced Defense",
+          "+30 Defense vs. Missile",
+          "+50-75 To Mana",
+          "Half Freeze Duration",
+          "+5% To Maximum Fire Resist",
+          "Poison Length Reduced by 50%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "crescent-moon-runeword-t1208",
+    "name": "Crescent Moon",
+    "url": "https://diablo2.io/runewords/crescent-moon-runeword-t1208.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 47,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Um",
+      "Tir"
+    ],
+    "itemTypes": [
+      "Polearms",
+      "Axes",
+      "Swords"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "10% Chance To Cast Level 17 Chain Lightning On Striking",
+      "7% Chance To Cast Level 13 Static Field On Striking",
+      "+20% Increased Attack Speed",
+      "+180-220% Enhanced Damage",
+      "Ignore Target's Defense",
+      "-35% To Enemy Lightning Resistance",
+      "25% Chance of Open Wounds",
+      "+9-11 Magic Absorb",
+      "+2 To Mana After Each Kill",
+      "Level 18 Summon Spirit Wolf (30 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Polearms",
+        "sockets": 3,
+        "stats": [
+          "10% Chance To Cast Level 17 Chain Lightning On Striking",
+          "7% Chance To Cast Level 13 Static Field On Striking",
+          "+20% Increased Attack Speed",
+          "+180-220% Enhanced Damage",
+          "Ignore Target's Defense",
+          "-35% To Enemy Lightning Resistance",
+          "25% Chance of Open Wounds",
+          "+9-11 Magic Absorb",
+          "+2 To Mana After Each Kill",
+          "Level 18 Summon Spirit Wolf (30 Charges)"
+        ]
+      },
+      {
+        "itemType": "Axes",
+        "sockets": 3,
+        "stats": [
+          "10% Chance To Cast Level 17 Chain Lightning On Striking",
+          "7% Chance To Cast Level 13 Static Field On Striking",
+          "+20% Increased Attack Speed",
+          "+180-220% Enhanced Damage",
+          "Ignore Target's Defense",
+          "-35% To Enemy Lightning Resistance",
+          "25% Chance of Open Wounds",
+          "+9-11 Magic Absorb",
+          "+2 To Mana After Each Kill",
+          "Level 18 Summon Spirit Wolf (30 Charges)"
+        ]
+      },
+      {
+        "itemType": "Swords",
+        "sockets": 3,
+        "stats": [
+          "10% Chance To Cast Level 17 Chain Lightning On Striking",
+          "7% Chance To Cast Level 13 Static Field On Striking",
+          "+20% Increased Attack Speed",
+          "+180-220% Enhanced Damage",
+          "Ignore Target's Defense",
+          "-35% To Enemy Lightning Resistance",
+          "25% Chance of Open Wounds",
+          "+9-11 Magic Absorb",
+          "+2 To Mana After Each Kill",
+          "Level 18 Summon Spirit Wolf (30 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "black-t1182",
+    "name": "Black",
+    "url": "https://diablo2.io/runewords/black-t1182.html",
+    "patch": "Original",
+    "version": null,
+    "level": 35,
+    "sockets": 3,
+    "runes": [
+      "Thul",
+      "Io",
+      "Nef"
+    ],
+    "itemTypes": [
+      "Clubs",
+      "Hammers",
+      "Maces"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+120% Enhanced Damage",
+      "40% Chance of Crushing Blow",
+      "+200 to Attack Rating",
+      "Adds 3-14 Cold Damage for 3 seconds",
+      "+10 to Vitality",
+      "15% increased Attack Speed",
+      "Magic Damage Reduced by 2",
+      "Level 4 Corpse Explosion (12 charges)",
+      "Knockback"
+    ],
+    "variants": [
+      {
+        "itemType": "Clubs",
+        "sockets": 3,
+        "stats": [
+          "+120% Enhanced Damage",
+          "40% Chance of Crushing Blow",
+          "+200 to Attack Rating",
+          "Adds 3-14 Cold Damage for 3 seconds",
+          "+10 to Vitality",
+          "15% increased Attack Speed",
+          "Magic Damage Reduced by 2",
+          "Level 4 Corpse Explosion (12 charges)",
+          "Knockback"
+        ]
+      },
+      {
+        "itemType": "Hammers",
+        "sockets": 3,
+        "stats": [
+          "+120% Enhanced Damage",
+          "40% Chance of Crushing Blow",
+          "+200 to Attack Rating",
+          "Adds 3-14 Cold Damage for 3 seconds",
+          "+10 to Vitality",
+          "15% increased Attack Speed",
+          "Magic Damage Reduced by 2",
+          "Level 4 Corpse Explosion (12 charges)",
+          "Knockback"
+        ]
+      },
+      {
+        "itemType": "Maces",
+        "sockets": 3,
+        "stats": [
+          "+120% Enhanced Damage",
+          "40% Chance of Crushing Blow",
+          "+200 to Attack Rating",
+          "Adds 3-14 Cold Damage for 3 seconds",
+          "+10 to Vitality",
+          "15% increased Attack Speed",
+          "Magic Damage Reduced by 2",
+          "Level 4 Corpse Explosion (12 charges)",
+          "Knockback"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "doom-t1210",
+    "name": "Doom",
+    "url": "https://diablo2.io/runewords/doom-t1210.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 67,
+    "sockets": 5,
+    "runes": [
+      "Hel",
+      "Ohm",
+      "Um",
+      "Lo",
+      "Cham"
+    ],
+    "itemTypes": [
+      "Axes",
+      "Polearms",
+      "Hammers"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "5% Chance To Cast Level 18 Volcano On Striking",
+      "Level 12 Holy Freeze Aura When Equipped",
+      "+2 To All Skills",
+      "+45% Increased Attack Speed",
+      "+330-370% Enhanced Damage",
+      "-(40-60)% To Enemy Cold Resistance",
+      "20% Deadly Strike",
+      "25% Chance of Open Wounds",
+      "Prevent Monster Heal",
+      "Freezes Target +3",
+      "Requirements -20%"
+    ],
+    "variants": [
+      {
+        "itemType": "Axes",
+        "sockets": 5,
+        "stats": [
+          "5% Chance To Cast Level 18 Volcano On Striking",
+          "Level 12 Holy Freeze Aura When Equipped",
+          "+2 To All Skills",
+          "+45% Increased Attack Speed",
+          "+330-370% Enhanced Damage",
+          "-(40-60)% To Enemy Cold Resistance",
+          "20% Deadly Strike",
+          "25% Chance of Open Wounds",
+          "Prevent Monster Heal",
+          "Freezes Target +3",
+          "Requirements -20%"
+        ]
+      },
+      {
+        "itemType": "Polearms",
+        "sockets": 5,
+        "stats": [
+          "5% Chance To Cast Level 18 Volcano On Striking",
+          "Level 12 Holy Freeze Aura When Equipped",
+          "+2 To All Skills",
+          "+45% Increased Attack Speed",
+          "+330-370% Enhanced Damage",
+          "-(40-60)% To Enemy Cold Resistance",
+          "20% Deadly Strike",
+          "25% Chance of Open Wounds",
+          "Prevent Monster Heal",
+          "Freezes Target +3",
+          "Requirements -20%"
+        ]
+      },
+      {
+        "itemType": "Hammers",
+        "sockets": 5,
+        "stats": [
+          "5% Chance To Cast Level 18 Volcano On Striking",
+          "Level 12 Holy Freeze Aura When Equipped",
+          "+2 To All Skills",
+          "+45% Increased Attack Speed",
+          "+330-370% Enhanced Damage",
+          "-(40-60)% To Enemy Cold Resistance",
+          "20% Deadly Strike",
+          "25% Chance of Open Wounds",
+          "Prevent Monster Heal",
+          "Freezes Target +3",
+          "Requirements -20%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "faith-t1231",
+    "name": "Faith",
+    "url": "https://diablo2.io/runewords/faith-t1231.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 4,
+    "runes": [
+      "Ohm",
+      "Jah",
+      "Lem",
+      "Eld"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 12-15 Fanaticism Aura When Equipped",
+      "+1-2 To All Skills",
+      "+330% Enhanced Damage",
+      "Ignore Target's Defense",
+      "300% Bonus To Attack Rating",
+      "+75% Damage To Undead",
+      "+50 To Attack Rating Against Undead",
+      "+120 Fire Damage",
+      "All Resistances +15",
+      "10% Reanimate As: Returned",
+      "75% Extra Gold From Monsters"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 4,
+        "stats": [
+          "Level 12-15 Fanaticism Aura When Equipped",
+          "+1-2 To All Skills",
+          "+330% Enhanced Damage",
+          "Ignore Target's Defense",
+          "300% Bonus To Attack Rating",
+          "+75% Damage To Undead",
+          "+50 To Attack Rating Against Undead",
+          "+120 Fire Damage",
+          "All Resistances +15",
+          "10% Reanimate As: Returned",
+          "75% Extra Gold From Monsters"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "heart-of-the-oak-t1217",
+    "name": "Heart of the Oak",
+    "url": "https://diablo2.io/runewords/heart-of-the-oak-t1217.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 55,
+    "sockets": 4,
+    "runes": [
+      "Ko",
+      "Vex",
+      "Pul",
+      "Thul"
+    ],
+    "itemTypes": [
+      "Maces",
+      "Staves"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+3 To All Skills",
+      "+40% Faster Cast Rate",
+      "+75% Damage To Demons",
+      "+100 To Attack Rating Against DemonsAdds 3-14 Cold Damage, 3 sec.Duration",
+      "7% Mana Stolen Per Hit",
+      "+10 To Dexterity",
+      "Replenish Life +20",
+      "Increase Maximum Mana 15%",
+      "All Resistances +30-40",
+      "Level 4 Oak Sage (25 Charges)",
+      "Level 14 Raven (60 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Maces",
+        "sockets": 4,
+        "stats": [
+          "+3 To All Skills",
+          "+40% Faster Cast Rate",
+          "+75% Damage To Demons",
+          "+100 To Attack Rating Against DemonsAdds 3-14 Cold Damage, 3 sec.Duration",
+          "7% Mana Stolen Per Hit",
+          "+10 To Dexterity",
+          "Replenish Life +20",
+          "Increase Maximum Mana 15%",
+          "All Resistances +30-40",
+          "Level 4 Oak Sage (25 Charges)",
+          "Level 14 Raven (60 Charges)"
+        ]
+      },
+      {
+        "itemType": "Staves",
+        "sockets": 4,
+        "stats": [
+          "+3 To All Skills",
+          "+40% Faster Cast Rate",
+          "+75% Damage To Demons",
+          "+100 To Attack Rating Against DemonsAdds 3-14 Cold Damage, 3 sec.Duration",
+          "7% Mana Stolen Per Hit",
+          "+10 To Dexterity",
+          "Replenish Life +20",
+          "Increase Maximum Mana 15%",
+          "All Resistances +30-40",
+          "Level 4 Oak Sage (25 Charges)",
+          "Level 14 Raven (60 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "mist-t775678",
+    "name": "Mist",
+    "url": "https://diablo2.io/runewords/mist-t775678.html",
+    "patch": "2.4",
+    "version": "Data updated for 2.4",
+    "level": 67,
+    "sockets": 5,
+    "runes": [
+      "Cham",
+      "Shael",
+      "Gul",
+      "Thul",
+      "Ith"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 8-12 Concentration Aura When Equipped",
+      "+3 To All Skills",
+      "+20% Increased Attack Speed",
+      "+100% Piercing Attack",
+      "+325-375% Enhanced Damage",
+      "+9 To Maximum Damage",
+      "20% Bonus to Attack Rating",
+      "Adds 3-14 Cold Damage",
+      "Freezes Target +3",
+      "+24 to Vitality",
+      "All Resistances +40"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 5,
+        "stats": [
+          "Level 8-12 Concentration Aura When Equipped",
+          "+3 To All Skills",
+          "+20% Increased Attack Speed",
+          "+100% Piercing Attack",
+          "+325-375% Enhanced Damage",
+          "+9 To Maximum Damage",
+          "20% Bonus to Attack Rating",
+          "Adds 3-14 Cold Damage",
+          "Freezes Target +3",
+          "+24 to Vitality",
+          "All Resistances +40"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "coven-t1673935",
+    "name": "Coven",
+    "url": "https://diablo2.io/runewords/coven-t1673935.html",
+    "patch": "3.0",
+    "version": "New in RotW",
+    "level": 51,
+    "sockets": 3,
+    "runes": [
+      "Ist",
+      "Ral",
+      "Io"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "5% Chance to cast level 10 Sigil Lethargy when struck",
+      "+1 to All Skills",
+      "+20% Faster Cast Rate",
+      "+30-50% Enhanced Defense",
+      "+1-5 Life after each Kill",
+      "26-40% Better Chance of Getting Magic Items",
+      "Fire Resist +30%",
+      "+10 to Vitality"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "5% Chance to cast level 10 Sigil Lethargy when struck",
+          "+1 to All Skills",
+          "+20% Faster Cast Rate",
+          "+30-50% Enhanced Defense",
+          "+1-5 Life after each Kill",
+          "26-40% Better Chance of Getting Magic Items",
+          "Fire Resist +30%",
+          "+10 to Vitality"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "void-t1673936",
+    "name": "Void",
+    "url": "https://diablo2.io/runewords/void-t1673936.html",
+    "patch": "3.0",
+    "version": "New in RotW",
+    "level": 69,
+    "sockets": 3,
+    "runes": [
+      "Thul",
+      "Zod",
+      "Ist"
+    ],
+    "itemTypes": [
+      "Daggers"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+2 to All Skills",
+      "+40% Faster Cast Rate",
+      "+10-15% to Magic Skill Damage",
+      "+1-3 to Abyss",
+      "+8-12 to all Attributes",
+      "Level 4 Decrepify (35/35 Charges)",
+      "Adds 3-14 Cold Damage",
+      "Indestructible",
+      "30% Better Chance of Getting Magic Items"
+    ],
+    "variants": [
+      {
+        "itemType": "Daggers",
+        "sockets": 3,
+        "stats": [
+          "+2 to All Skills",
+          "+40% Faster Cast Rate",
+          "+10-15% to Magic Skill Damage",
+          "+1-3 to Abyss",
+          "+8-12 to all Attributes",
+          "Level 4 Decrepify (35/35 Charges)",
+          "Adds 3-14 Cold Damage",
+          "Indestructible",
+          "30% Better Chance of Getting Magic Items"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "eternity-t1212",
+    "name": "Eternity",
+    "url": "https://diablo2.io/runewords/eternity-t1212.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 63,
+    "sockets": 5,
+    "runes": [
+      "Amn",
+      "Ber",
+      "Ist",
+      "Sol",
+      "Sur"
+    ],
+    "itemTypes": [
+      "Melee Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Indestructible",
+      "+260-310% Enhanced Damage",
+      "+9 To Minimum Damage",
+      "7% Life Stolen Per Hit",
+      "20% Chance of Crushing Blow",
+      "Hit Blinds Target",
+      "Slows Target By 33%",
+      "Regenerate Mana 16%",
+      "Replenish Life +16",
+      "Cannot Be Frozen",
+      "30% Better Chance Of Getting Magic Items",
+      "Level 8 Revive (88 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Melee Weapons",
+        "sockets": 5,
+        "stats": [
+          "Indestructible",
+          "+260-310% Enhanced Damage",
+          "+9 To Minimum Damage",
+          "7% Life Stolen Per Hit",
+          "20% Chance of Crushing Blow",
+          "Hit Blinds Target",
+          "Slows Target By 33%",
+          "Regenerate Mana 16%",
+          "Replenish Life +16",
+          "Cannot Be Frozen",
+          "30% Better Chance Of Getting Magic Items",
+          "Level 8 Revive (88 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "vigilance-t1673937",
+    "name": "Vigilance",
+    "url": "https://diablo2.io/runewords/vigilance-t1673937.html",
+    "patch": "3.0",
+    "version": "New in RotW",
+    "level": 53,
+    "sockets": 2,
+    "runes": [
+      "Dol",
+      "Gul"
+    ],
+    "itemTypes": [
+      "Grimoires",
+      "Shields",
+      "Shrunken Heads",
+      "Targes"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "5% Chance to cast level 10 Ring of Fire when struck",
+      "+10% Faster Run/Walk",
+      "+30% Faster Block Rate",
+      "+20-40 to Life",
+      "+20-40 to Mana",
+      "All Resistances +25-35",
+      "+75-100% Enhanced Defense",
+      "Replenish Life +7",
+      "+5% to Maximum Poison Resist"
+    ],
+    "variants": [
+      {
+        "itemType": "Grimoires",
+        "sockets": 2,
+        "stats": [
+          "5% Chance to cast level 10 Ring of Fire when struck",
+          "+10% Faster Run/Walk",
+          "+30% Faster Block Rate",
+          "+20-40 to Life",
+          "+20-40 to Mana",
+          "All Resistances +25-35",
+          "+75-100% Enhanced Defense",
+          "Replenish Life +7",
+          "+5% to Maximum Poison Resist"
+        ]
+      },
+      {
+        "itemType": "Shields",
+        "sockets": 2,
+        "stats": [
+          "5% Chance to cast level 10 Ring of Fire when struck",
+          "+10% Faster Run/Walk",
+          "+30% Faster Block Rate",
+          "+20-40 to Life",
+          "+20-40 to Mana",
+          "All Resistances +25-35",
+          "+75-100% Enhanced Defense",
+          "Replenish Life +7",
+          "+5% to Maximum Poison Resist"
+        ]
+      },
+      {
+        "itemType": "Shrunken Heads",
+        "sockets": 2,
+        "stats": [
+          "5% Chance to cast level 10 Ring of Fire when struck",
+          "+10% Faster Run/Walk",
+          "+30% Faster Block Rate",
+          "+20-40 to Life",
+          "+20-40 to Mana",
+          "All Resistances +25-35",
+          "+75-100% Enhanced Defense",
+          "Replenish Life +7",
+          "+5% to Maximum Poison Resist"
+        ]
+      },
+      {
+        "itemType": "Targes",
+        "sockets": 2,
+        "stats": [
+          "5% Chance to cast level 10 Ring of Fire when struck",
+          "+10% Faster Run/Walk",
+          "+30% Faster Block Rate",
+          "+20-40 to Life",
+          "+20-40 to Mana",
+          "All Resistances +25-35",
+          "+75-100% Enhanced Defense",
+          "Replenish Life +7",
+          "+5% to Maximum Poison Resist"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "wrath-t1246",
+    "name": "Wrath",
+    "url": "https://diablo2.io/runewords/wrath-t1246.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 63,
+    "sockets": 4,
+    "runes": [
+      "Pul",
+      "Lum",
+      "Ber",
+      "Mal"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "30% Chance To Cast Level 1 Decrepify On Striking",
+      "5% Chance To Cast Level 10 Life Tap On Striking",
+      "+375% Damage To Demons",
+      "+100 To Attack Rating Against Demons",
+      "+250-300% Damage To Undead",
+      "Adds 85-120 Magic Damage",
+      "Adds 41-240 Lightning Damage",
+      "20% Chance of Crushing Blow",
+      "Prevent Monster Heal",
+      "+10 To Energy",
+      "Cannot Be Frozen"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 4,
+        "stats": [
+          "30% Chance To Cast Level 1 Decrepify On Striking",
+          "5% Chance To Cast Level 10 Life Tap On Striking",
+          "+375% Damage To Demons",
+          "+100 To Attack Rating Against Demons",
+          "+250-300% Damage To Undead",
+          "Adds 85-120 Magic Damage",
+          "Adds 41-240 Lightning Damage",
+          "20% Chance of Crushing Blow",
+          "Prevent Monster Heal",
+          "+10 To Energy",
+          "Cannot Be Frozen"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "pattern-t775672",
+    "name": "Pattern",
+    "url": "https://diablo2.io/runewords/pattern-t775672.html",
+    "patch": "2.4",
+    "version": "Data updated for 2.4",
+    "level": 23,
+    "sockets": 3,
+    "runes": [
+      "Tal",
+      "Ort",
+      "Thul"
+    ],
+    "itemTypes": [
+      "Katars"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+30% Faster Block",
+      "+40-80% Enhanced Damage",
+      "10% Bonus to Attack Rating",
+      "Adds 12-32 Fire Damage",
+      "Adds 1-50 Lightning Damage",
+      "Adds 3-14 Cold Damage",
+      "+75 Poison Damage Over 5 Seconds",
+      "+6 Strength",
+      "+6 Dexterity",
+      "All Resistances +15"
+    ],
+    "variants": [
+      {
+        "itemType": "Katars",
+        "sockets": 3,
+        "stats": [
+          "+30% Faster Block",
+          "+40-80% Enhanced Damage",
+          "10% Bonus to Attack Rating",
+          "Adds 12-32 Fire Damage",
+          "Adds 1-50 Lightning Damage",
+          "Adds 3-14 Cold Damage",
+          "+75 Poison Damage Over 5 Seconds",
+          "+6 Strength",
+          "+6 Dexterity",
+          "All Resistances +15"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "voice-of-reason-t1245",
+    "name": "Voice of Reason",
+    "url": "https://diablo2.io/runewords/voice-of-reason-t1245.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 43,
+    "sockets": 4,
+    "runes": [
+      "Lem",
+      "Ko",
+      "El",
+      "Eld"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Maces"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "15% Chance To Cast Level 13 Frozen Orb On Striking",
+      "18% Chance To Cast Level 20 Ice Blast On Striking",
+      "+50 To Attack Rating",
+      "+220-350% Damage To Demons",
+      "+355-375% Damage To Undead",
+      "+50 To Attack Rating Against Undead",
+      "Adds 100-220 Cold Damage",
+      "-24% To Enemy Cold Resistance",
+      "+10 To Dexterity",
+      "Cannot Be Frozen",
+      "75% Extra Gold From Monsters",
+      "+1 To Light Radius"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 4,
+        "stats": [
+          "15% Chance To Cast Level 13 Frozen Orb On Striking",
+          "18% Chance To Cast Level 20 Ice Blast On Striking",
+          "+50 To Attack Rating",
+          "+220-350% Damage To Demons",
+          "+355-375% Damage To Undead",
+          "+50 To Attack Rating Against Undead",
+          "Adds 100-220 Cold Damage",
+          "-24% To Enemy Cold Resistance",
+          "+10 To Dexterity",
+          "Cannot Be Frozen",
+          "75% Extra Gold From Monsters",
+          "+1 To Light Radius"
+        ]
+      },
+      {
+        "itemType": "Maces",
+        "sockets": 4,
+        "stats": [
+          "15% Chance To Cast Level 13 Frozen Orb On Striking",
+          "18% Chance To Cast Level 20 Ice Blast On Striking",
+          "+50 To Attack Rating",
+          "+220-350% Damage To Demons",
+          "+355-375% Damage To Undead",
+          "+50 To Attack Rating Against Undead",
+          "Adds 100-220 Cold Damage",
+          "-24% To Enemy Cold Resistance",
+          "+10 To Dexterity",
+          "Cannot Be Frozen",
+          "75% Extra Gold From Monsters",
+          "+1 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "smoke-t1195",
+    "name": "Smoke",
+    "url": "https://diablo2.io/runewords/smoke-t1195.html",
+    "patch": "Original",
+    "version": null,
+    "level": 37,
+    "sockets": 2,
+    "runes": [
+      "Nef",
+      "Lum"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+75% Enhanced Defense",
+      "+280 Defense vs. Missiles",
+      "All Resistances +50",
+      "20% Faster Hit Recovery",
+      "Level 6 Weaken (18 Charges)",
+      "+10 To Energy",
+      "-1 To Light Radius"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 2,
+        "stats": [
+          "+75% Enhanced Defense",
+          "+280 Defense vs. Missiles",
+          "All Resistances +50",
+          "20% Faster Hit Recovery",
+          "Level 6 Weaken (18 Charges)",
+          "+10 To Energy",
+          "-1 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "stone-t1223",
+    "name": "Stone",
+    "url": "https://diablo2.io/runewords/stone-t1223.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 47,
+    "sockets": 4,
+    "runes": [
+      "Shael",
+      "Um",
+      "Pul",
+      "Lum"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+60% Faster Hit Recovery",
+      "+250-290% Enhanced Defense",
+      "+300 Defense vs. Missile",
+      "+16 To Strength",
+      "+16 To Vitality",
+      "+10 To Energy",
+      "All Resistances +15",
+      "Level 16 Molten Boulder (80 Charges)",
+      "Level 16 Clay Golem (16 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 4,
+        "stats": [
+          "+60% Faster Hit Recovery",
+          "+250-290% Enhanced Defense",
+          "+300 Defense vs. Missile",
+          "+16 To Strength",
+          "+16 To Vitality",
+          "+10 To Energy",
+          "All Resistances +15",
+          "Level 16 Molten Boulder (80 Charges)",
+          "Level 16 Clay Golem (16 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "honor-t1185",
+    "name": "Honor",
+    "url": "https://diablo2.io/runewords/honor-t1185.html",
+    "patch": "Original",
+    "version": null,
+    "level": 27,
+    "sockets": 5,
+    "runes": [
+      "Amn",
+      "El",
+      "Ith",
+      "Tir",
+      "Sol"
+    ],
+    "itemTypes": [
+      "Melee Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+160% Enhanced Damage",
+      "+9 to Minimum Damage",
+      "+9 to Maximum Damage",
+      "25% Deadly Strike",
+      "+250 to Attack Rating",
+      "+1 to All Skills",
+      "7% Life Stolen per Hit",
+      "+10 Replenish Life",
+      "+10 to Strength",
+      "+1 to Light Radius",
+      "+2 to Mana per Kill"
+    ],
+    "variants": [
+      {
+        "itemType": "Melee Weapons",
+        "sockets": 5,
+        "stats": [
+          "+160% Enhanced Damage",
+          "+9 to Minimum Damage",
+          "+9 to Maximum Damage",
+          "25% Deadly Strike",
+          "+250 to Attack Rating",
+          "+1 to All Skills",
+          "7% Life Stolen per Hit",
+          "+10 Replenish Life",
+          "+10 to Strength",
+          "+1 to Light Radius",
+          "+2 to Mana per Kill"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "ritual-t1673938",
+    "name": "Ritual",
+    "url": "https://diablo2.io/runewords/ritual-t1673938.html",
+    "patch": "3.0",
+    "version": "New in RotW",
+    "level": 57,
+    "sockets": 3,
+    "runes": [
+      "Amn",
+      "Shael",
+      "Ohm"
+    ],
+    "itemTypes": [
+      "Daggers"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "13% Chance to cast level 1 Sigil Death when struck",
+      "+40% Increased Attack Speed",
+      "+250-320% Enhanced Damage",
+      "+150-250% Damage to Demons",
+      "+200-260% Bonus to Attack Rating",
+      "+3-5 Life after each Kill",
+      "Slain Monsters Rest in Peace",
+      "7% Life stolen per hit"
+    ],
+    "variants": [
+      {
+        "itemType": "Daggers",
+        "sockets": 3,
+        "stats": [
+          "13% Chance to cast level 1 Sigil Death when struck",
+          "+40% Increased Attack Speed",
+          "+250-320% Enhanced Damage",
+          "+150-250% Damage to Demons",
+          "+200-260% Bonus to Attack Rating",
+          "+3-5 Life after each Kill",
+          "Slain Monsters Rest in Peace",
+          "7% Life stolen per hit"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "rift-t1244",
+    "name": "Rift",
+    "url": "https://diablo2.io/runewords/rift-t1244.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 53,
+    "sockets": 4,
+    "runes": [
+      "Hel",
+      "Ko",
+      "Lem",
+      "Gul"
+    ],
+    "itemTypes": [
+      "Polearms",
+      "Scepters"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "20% Chance To Cast Level 16 Tornado On Striking",
+      "16% Chance To Cast Level 21 Frozen Orb On Attack",
+      "20% Bonus To Attack Rating",
+      "Adds 160-250 Magic Damage",
+      "Adds 60-180 Fire Damage",
+      "+5-10 To All Stats",
+      "+10 To Dexterity",
+      "38% Damage Taken Goes To Mana",
+      "75% Extra Gold From Monsters",
+      "Level 15 Iron Maiden (40 Charges)",
+      "Requirements -20%"
+    ],
+    "variants": [
+      {
+        "itemType": "Polearms",
+        "sockets": 4,
+        "stats": [
+          "20% Chance To Cast Level 16 Tornado On Striking",
+          "16% Chance To Cast Level 21 Frozen Orb On Attack",
+          "20% Bonus To Attack Rating",
+          "Adds 160-250 Magic Damage",
+          "Adds 60-180 Fire Damage",
+          "+5-10 To All Stats",
+          "+10 To Dexterity",
+          "38% Damage Taken Goes To Mana",
+          "75% Extra Gold From Monsters",
+          "Level 15 Iron Maiden (40 Charges)",
+          "Requirements -20%"
+        ]
+      },
+      {
+        "itemType": "Scepters",
+        "sockets": 4,
+        "stats": [
+          "20% Chance To Cast Level 16 Tornado On Striking",
+          "16% Chance To Cast Level 21 Frozen Orb On Attack",
+          "20% Bonus To Attack Rating",
+          "Adds 160-250 Magic Damage",
+          "Adds 60-180 Fire Damage",
+          "+5-10 To All Stats",
+          "+10 To Dexterity",
+          "38% Damage Taken Goes To Mana",
+          "75% Extra Gold From Monsters",
+          "Level 15 Iron Maiden (40 Charges)",
+          "Requirements -20%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "harmony-t1234",
+    "name": "Harmony",
+    "url": "https://diablo2.io/runewords/harmony-t1234.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 39,
+    "sockets": 4,
+    "runes": [
+      "Tir",
+      "Ith",
+      "Sol",
+      "Ko"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 10 Vigor Aura When Equipped",
+      "+200-275% Enhanced Damage",
+      "+9 To Minimum Damage",
+      "+9 To Maximum Damage",
+      "Adds 55-160 Lightning Damage",
+      "Adds 55-160 Fire Damage",
+      "Adds 55-160 Cold Damage",
+      "+2-6 To Valkyrie",
+      "+10 To Dexterity",
+      "Regenerate Mana 20%",
+      "+2 To Mana After Each Kill",
+      "+2 To Light Radius",
+      "Level 20 Revive (25 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 4,
+        "stats": [
+          "Level 10 Vigor Aura When Equipped",
+          "+200-275% Enhanced Damage",
+          "+9 To Minimum Damage",
+          "+9 To Maximum Damage",
+          "Adds 55-160 Lightning Damage",
+          "Adds 55-160 Fire Damage",
+          "Adds 55-160 Cold Damage",
+          "+2-6 To Valkyrie",
+          "+10 To Dexterity",
+          "Regenerate Mana 20%",
+          "+2 To Mana After Each Kill",
+          "+2 To Light Radius",
+          "Level 20 Revive (25 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "last-wish-t1238",
+    "name": "Last Wish",
+    "url": "https://diablo2.io/runewords/last-wish-t1238.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 6,
+    "runes": [
+      "Jah",
+      "Mal",
+      "Jah",
+      "Sur",
+      "Jah",
+      "Ber"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Hammers",
+      "Axes"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "6% Chance To Cast Level 11 Fade When Struck",
+      "10% Chance To Cast Level 18 Life Tap On Striking",
+      "20% Chance To Cast Level 20 Charged Bolt On Attack",
+      "Level 17 Might Aura When Equipped",
+      "+330-375% Enhanced Damage",
+      "Ignore Target's Defense",
+      "60-70% Chance of Crushing Blow",
+      "Prevent Monster Heal",
+      "Hit Blinds Target",
+      "+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level)"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 6,
+        "stats": [
+          "6% Chance To Cast Level 11 Fade When Struck",
+          "10% Chance To Cast Level 18 Life Tap On Striking",
+          "20% Chance To Cast Level 20 Charged Bolt On Attack",
+          "Level 17 Might Aura When Equipped",
+          "+330-375% Enhanced Damage",
+          "Ignore Target's Defense",
+          "60-70% Chance of Crushing Blow",
+          "Prevent Monster Heal",
+          "Hit Blinds Target",
+          "+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level)"
+        ]
+      },
+      {
+        "itemType": "Hammers",
+        "sockets": 6,
+        "stats": [
+          "6% Chance To Cast Level 11 Fade When Struck",
+          "10% Chance To Cast Level 18 Life Tap On Striking",
+          "20% Chance To Cast Level 20 Charged Bolt On Attack",
+          "Level 17 Might Aura When Equipped",
+          "+330-375% Enhanced Damage",
+          "Ignore Target's Defense",
+          "60-70% Chance of Crushing Blow",
+          "Prevent Monster Heal",
+          "Hit Blinds Target",
+          "+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level)"
+        ]
+      },
+      {
+        "itemType": "Axes",
+        "sockets": 6,
+        "stats": [
+          "6% Chance To Cast Level 11 Fade When Struck",
+          "10% Chance To Cast Level 18 Life Tap On Striking",
+          "20% Chance To Cast Level 20 Charged Bolt On Attack",
+          "Level 17 Might Aura When Equipped",
+          "+330-375% Enhanced Damage",
+          "Ignore Target's Defense",
+          "60-70% Chance of Crushing Blow",
+          "Prevent Monster Heal",
+          "Hit Blinds Target",
+          "+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "insight-t1237",
+    "name": "Insight",
+    "url": "https://diablo2.io/runewords/insight-t1237.html",
+    "patch": "1.10",
+    "version": "Data updated for 2.4",
+    "level": 27,
+    "sockets": 4,
+    "runes": [
+      "Ral",
+      "Tir",
+      "Tal",
+      "Sol"
+    ],
+    "itemTypes": [
+      "Polearms",
+      "Staves",
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 12-17 Meditation Aura When Equipped",
+      "+35% Faster Cast Rate",
+      "+200-260% Enhanced Damage",
+      "+9 To Minimum Damage",
+      "180-250% Bonus to Attack Rating",
+      "Adds 5-30 Fire Damage",
+      "+75 Poison Damage Over 5 Seconds",
+      "+1-6 To Critical Strike",
+      "+5 To All Attributes",
+      "+2 To Mana After Each Kill",
+      "23% Better Chance of Getting Magic Items"
+    ],
+    "variants": [
+      {
+        "itemType": "Polearms",
+        "sockets": 4,
+        "stats": [
+          "Level 12-17 Meditation Aura When Equipped",
+          "+35% Faster Cast Rate",
+          "+200-260% Enhanced Damage",
+          "+9 To Minimum Damage",
+          "180-250% Bonus to Attack Rating",
+          "Adds 5-30 Fire Damage",
+          "+75 Poison Damage Over 5 Seconds",
+          "+1-6 To Critical Strike",
+          "+5 To All Attributes",
+          "+2 To Mana After Each Kill",
+          "23% Better Chance of Getting Magic Items"
+        ]
+      },
+      {
+        "itemType": "Staves",
+        "sockets": 4,
+        "stats": [
+          "Level 12-17 Meditation Aura When Equipped",
+          "+35% Faster Cast Rate",
+          "+200-260% Enhanced Damage",
+          "+9 To Minimum Damage",
+          "180-250% Bonus to Attack Rating",
+          "Adds 5-30 Fire Damage",
+          "+75 Poison Damage Over 5 Seconds",
+          "+1-6 To Critical Strike",
+          "+5 To All Attributes",
+          "+2 To Mana After Each Kill",
+          "23% Better Chance of Getting Magic Items"
+        ]
+      },
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 4,
+        "stats": [
+          "Level 12-17 Meditation Aura When Equipped",
+          "+35% Faster Cast Rate",
+          "+200-260% Enhanced Damage",
+          "+9 To Minimum Damage",
+          "180-250% Bonus to Attack Rating",
+          "Adds 5-30 Fire Damage",
+          "+75 Poison Damage Over 5 Seconds",
+          "+1-6 To Critical Strike",
+          "+5 To All Attributes",
+          "+2 To Mana After Each Kill",
+          "23% Better Chance of Getting Magic Items"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "edge-t1230",
+    "name": "Edge",
+    "url": "https://diablo2.io/runewords/edge-t1230.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 25,
+    "sockets": 3,
+    "runes": [
+      "Tir",
+      "Tal",
+      "Amn"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 15 Thorns Aura When Equipped",
+      "+35% Increased Attack Speed",
+      "+320-380% Damage To Demons",
+      "+280% Damage To Undead",
+      "+75 Poison Damage Over 5 Seconds",
+      "7% Life Stolen Per Hit",
+      "Prevent Monster Heal",
+      "+5-10 To All Attributes",
+      "+2 To Mana After Each Kill",
+      "Reduces All Vendor Prices 15%"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 3,
+        "stats": [
+          "Level 15 Thorns Aura When Equipped",
+          "+35% Increased Attack Speed",
+          "+320-380% Damage To Demons",
+          "+280% Damage To Undead",
+          "+75 Poison Damage Over 5 Seconds",
+          "7% Life Stolen Per Hit",
+          "Prevent Monster Heal",
+          "+5-10 To All Attributes",
+          "+2 To Mana After Each Kill",
+          "Reduces All Vendor Prices 15%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "dream-t1229",
+    "name": "Dream",
+    "url": "https://diablo2.io/runewords/dream-t1229.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 3,
+    "runes": [
+      "Io",
+      "Jah",
+      "Pul"
+    ],
+    "itemTypes": [
+      "Helms",
+      "Shields"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "10% Chance To Cast Level 15 Confuse When Struck",
+      "Level 15 Holy Shock Aura When Equipped",
+      "+20-30% Faster Hit Recovery",
+      "+30% Enhanced Defense",
+      "+150-220 Defense",
+      "+10 To Vitality",
+      "Increase Maximum Life 5% (Helms Only)",
+      "+50 To Life (Shields Only)",
+      "+0.625-61.875 To Mana (Based On Character Level)",
+      "All Resistances +5-20",
+      "12-25% Better Chance of Getting Magic Items"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "10% Chance To Cast Level 15 Confuse When Struck",
+          "Level 15 Holy Shock Aura When Equipped",
+          "+20-30% Faster Hit Recovery",
+          "+30% Enhanced Defense",
+          "+150-220 Defense",
+          "+10 To Vitality",
+          "Increase Maximum Life 5% (Helms Only)",
+          "+50 To Life (Shields Only)",
+          "+0.625-61.875 To Mana (Based On Character Level)",
+          "All Resistances +5-20",
+          "12-25% Better Chance of Getting Magic Items"
+        ]
+      },
+      {
+        "itemType": "Shields",
+        "sockets": 3,
+        "stats": [
+          "10% Chance To Cast Level 15 Confuse When Struck",
+          "Level 15 Holy Shock Aura When Equipped",
+          "+20-30% Faster Hit Recovery",
+          "+30% Enhanced Defense",
+          "+150-220 Defense",
+          "+10 To Vitality",
+          "Increase Maximum Life 5% (Helms Only)",
+          "+50 To Life (Shields Only)",
+          "+0.625-61.875 To Mana (Based On Character Level)",
+          "All Resistances +5-20",
+          "12-25% Better Chance of Getting Magic Items"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "oath-t1240",
+    "name": "Oath",
+    "url": "https://diablo2.io/runewords/oath-t1240.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 49,
+    "sockets": 4,
+    "runes": [
+      "Shael",
+      "Pul",
+      "Mal",
+      "Lum"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Axes",
+      "Maces"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "30% Chance To Cast Level 20 Bone Spirit On Striking",
+      "Indestructible",
+      "+50% Increased Attack Speed",
+      "+210-340% Enhanced Damage",
+      "+75% Damage To Demons",
+      "+100 To Attack Rating Against Demons",
+      "Prevent Monster Heal",
+      "+10 To Energy",
+      "+10-15 Magic Absorb",
+      "Level 16 Heart of Wolverine (20 Charges)",
+      "Level 17 Iron Golem (14 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 4,
+        "stats": [
+          "30% Chance To Cast Level 20 Bone Spirit On Striking",
+          "Indestructible",
+          "+50% Increased Attack Speed",
+          "+210-340% Enhanced Damage",
+          "+75% Damage To Demons",
+          "+100 To Attack Rating Against Demons",
+          "Prevent Monster Heal",
+          "+10 To Energy",
+          "+10-15 Magic Absorb",
+          "Level 16 Heart of Wolverine (20 Charges)",
+          "Level 17 Iron Golem (14 Charges)"
+        ]
+      },
+      {
+        "itemType": "Axes",
+        "sockets": 4,
+        "stats": [
+          "30% Chance To Cast Level 20 Bone Spirit On Striking",
+          "Indestructible",
+          "+50% Increased Attack Speed",
+          "+210-340% Enhanced Damage",
+          "+75% Damage To Demons",
+          "+100 To Attack Rating Against Demons",
+          "Prevent Monster Heal",
+          "+10 To Energy",
+          "+10-15 Magic Absorb",
+          "Level 16 Heart of Wolverine (20 Charges)",
+          "Level 17 Iron Golem (14 Charges)"
+        ]
+      },
+      {
+        "itemType": "Maces",
+        "sockets": 4,
+        "stats": [
+          "30% Chance To Cast Level 20 Bone Spirit On Striking",
+          "Indestructible",
+          "+50% Increased Attack Speed",
+          "+210-340% Enhanced Damage",
+          "+75% Damage To Demons",
+          "+100 To Attack Rating Against Demons",
+          "Prevent Monster Heal",
+          "+10 To Energy",
+          "+10-15 Magic Absorb",
+          "Level 16 Heart of Wolverine (20 Charges)",
+          "Level 17 Iron Golem (14 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "enigma-t42",
+    "name": "Enigma",
+    "url": "https://diablo2.io/runewords/enigma-t42.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 3,
+    "runes": [
+      "Jah",
+      "Ith",
+      "Ber"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+2 To All Skills",
+      "+45% Faster Run/Walk",
+      "+1 To Teleport",
+      "+750-775 Defense",
+      "+ (0.75 Per Character Level) +0-74 To Strength (Based On Character Level)",
+      "Increase Maximum Life 5%",
+      "Damage Reduced By 8%",
+      "+14 Life After Each Kill",
+      "15% Damage Taken Goes To Mana",
+      "+ (1 Per Character Level) +1-99% Better Chance of Getting Magic Items (Based On Character Level)"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "+2 To All Skills",
+          "+45% Faster Run/Walk",
+          "+1 To Teleport",
+          "+750-775 Defense",
+          "+ (0.75 Per Character Level) +0-74 To Strength (Based On Character Level)",
+          "Increase Maximum Life 5%",
+          "Damage Reduced By 8%",
+          "+14 Life After Each Kill",
+          "15% Damage Taken Goes To Mana",
+          "+ (1 Per Character Level) +1-99% Better Chance of Getting Magic Items (Based On Character Level)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "splendor-t1222",
+    "name": "Splendor",
+    "url": "https://diablo2.io/runewords/splendor-t1222.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 37,
+    "sockets": 2,
+    "runes": [
+      "Eth",
+      "Lum"
+    ],
+    "itemTypes": [
+      "Shields"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+1 To All Skills",
+      "+10% Faster Cast Rate",
+      "+20% Faster Block Rate",
+      "+60-100% Enhanced Defense",
+      "+10 To Energy",
+      "Regenerate Mana 15%",
+      "50% Extra Gold From Monsters",
+      "20% Better Chance of Getting Magic Items",
+      "+3 To Light Radius"
+    ],
+    "variants": [
+      {
+        "itemType": "Shields",
+        "sockets": 2,
+        "stats": [
+          "+1 To All Skills",
+          "+10% Faster Cast Rate",
+          "+20% Faster Block Rate",
+          "+60-100% Enhanced Defense",
+          "+10 To Energy",
+          "Regenerate Mana 15%",
+          "50% Extra Gold From Monsters",
+          "20% Better Chance of Getting Magic Items",
+          "+3 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "mosaic-t1282119",
+    "name": "Mosaic",
+    "url": "https://diablo2.io/runewords/mosaic-t1282119.html",
+    "patch": "2.6",
+    "version": "New in 2.6",
+    "level": 53,
+    "sockets": 3,
+    "runes": [
+      "Mal",
+      "Gul",
+      "Amn"
+    ],
+    "itemTypes": [
+      "Katars"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+50% chance for finishing moves to not consume charges",
+      "When a finisher is executed this way, it now refreshes the expiration timer of the stack",
+      "+2 to Martial Arts (Assassin only)",
+      "+20% Increased Attack Speed",
+      "+200-250% Enhanced Damage",
+      "+20% Bonus to Attack Rating",
+      "7% Life Steal",
+      "+8-15% to Cold Skill Damage",
+      "+8-15% to Lightning Skill Damage",
+      "+8-15% to Fire Skill Damage",
+      "Prevent Monster Heal"
+    ],
+    "variants": [
+      {
+        "itemType": "Katars",
+        "sockets": 3,
+        "stats": [
+          "+50% chance for finishing moves to not consume charges",
+          "When a finisher is executed this way, it now refreshes the expiration timer of the stack",
+          "+2 to Martial Arts (Assassin only)",
+          "+20% Increased Attack Speed",
+          "+200-250% Enhanced Damage",
+          "+20% Bonus to Attack Rating",
+          "7% Life Steal",
+          "+8-15% to Cold Skill Damage",
+          "+8-15% to Lightning Skill Damage",
+          "+8-15% to Fire Skill Damage",
+          "Prevent Monster Heal"
+        ]
+      }
+    ],
+    "ladder": false,
+    "nonLadder": true,
+    "ladderNote": "Non-Ladder only"
+  },
+  {
+    "id": "leaf-t57",
+    "name": "Leaf",
+    "url": "https://diablo2.io/runewords/leaf-t57.html",
+    "patch": "Original",
+    "version": null,
+    "level": 19,
+    "sockets": 2,
+    "runes": [
+      "Tir",
+      "Ral"
+    ],
+    "itemTypes": [
+      "Staves"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Adds 5-30 Fire Damage",
+      "+3 To Fire Skills",
+      "+3 To Fire Bolt (Sorceress Only)",
+      "+3 To Inferno (Sorceress Only)",
+      "+3 To Warmth (Sorceress Only)",
+      "+2 To Mana After Each Kill",
+      "+ (2 Per Character Level) +2-198 To Defense (Based On Character Level)",
+      "Cold Resist +33%"
+    ],
+    "variants": [
+      {
+        "itemType": "Staves",
+        "sockets": 2,
+        "stats": [
+          "Adds 5-30 Fire Damage",
+          "+3 To Fire Skills",
+          "+3 To Fire Bolt (Sorceress Only)",
+          "+3 To Inferno (Sorceress Only)",
+          "+3 To Warmth (Sorceress Only)",
+          "+2 To Mana After Each Kill",
+          "+ (2 Per Character Level) +2-198 To Defense (Based On Character Level)",
+          "Cold Resist +33%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "rhyme-t1194",
+    "name": "Rhyme",
+    "url": "https://diablo2.io/runewords/rhyme-t1194.html",
+    "patch": "Original",
+    "version": null,
+    "level": 29,
+    "sockets": 2,
+    "runes": [
+      "Shael",
+      "Eth"
+    ],
+    "itemTypes": [
+      "Shields"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "20% Increased Chance of Blocking",
+      "40% Faster Block Rate",
+      "+25 to All Resistances",
+      "Regenerate Mana 15%",
+      "Cannot Be Frozen",
+      "50% Extra Gold From Monsters",
+      "25% Better Chance Of Getting Magic Items"
+    ],
+    "variants": [
+      {
+        "itemType": "Shields",
+        "sockets": 2,
+        "stats": [
+          "20% Increased Chance of Blocking",
+          "40% Faster Block Rate",
+          "+25 to All Resistances",
+          "Regenerate Mana 15%",
+          "Cannot Be Frozen",
+          "50% Extra Gold From Monsters",
+          "25% Better Chance Of Getting Magic Items"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "obsession-t785744",
+    "name": "Obsession",
+    "url": "https://diablo2.io/runewords/obsession-t785744.html",
+    "patch": "2.4",
+    "version": "Data updated for 2.4",
+    "level": 69,
+    "sockets": 6,
+    "runes": [
+      "Zod",
+      "Ist",
+      "Lem",
+      "Lum",
+      "Io",
+      "Nef"
+    ],
+    "itemTypes": [
+      "Staves"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Indestructible",
+      "24% Chance to cast level 10 Weaken when struck",
+      "+4 To All Skills",
+      "+65% Faster Cast Rate",
+      "+60% Faster Hit Recovery",
+      "Knockback",
+      "+10 To Vitality",
+      "+10 To Energy",
+      "Increase Maximum Life 15-25%",
+      "Regenerate Mana 15-30%",
+      "All Resistances +60-70",
+      "75% Extra Gold from Monsters",
+      "30% Better Chance of Getting Magic Items"
+    ],
+    "variants": [
+      {
+        "itemType": "Staves",
+        "sockets": 6,
+        "stats": [
+          "Indestructible",
+          "24% Chance to cast level 10 Weaken when struck",
+          "+4 To All Skills",
+          "+65% Faster Cast Rate",
+          "+60% Faster Hit Recovery",
+          "Knockback",
+          "+10 To Vitality",
+          "+10 To Energy",
+          "Increase Maximum Life 15-25%",
+          "Regenerate Mana 15-30%",
+          "All Resistances +60-70",
+          "75% Extra Gold from Monsters",
+          "30% Better Chance of Getting Magic Items"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "phoenix-t1242",
+    "name": "Phoenix",
+    "url": "https://diablo2.io/runewords/phoenix-t1242.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 4,
+    "runes": [
+      "Vex",
+      "Vex",
+      "Lo",
+      "Jah"
+    ],
+    "itemTypes": [
+      "Weapons",
+      "Shields"
+    ],
+    "itemGroups": [],
+    "stats": [],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 4,
+        "stats": [
+          "100% Chance To Cast level 40 Blaze When You Level Up",
+          "40% Chance To Cast Level 22 Firestorm On Striking",
+          "Level 10-15 Redemption Aura When Equipped",
+          "+350-400% Enhanced Damage",
+          "Ignores Target's Defense",
+          "14% Mana Stolen Per Hit",
+          "-28% To Enemy Fire Resistance",
+          "20% Deadly Strike",
+          "+350-400 Defense Vs. Missile",
+          "+15-21 Fire Absorb"
+        ]
+      },
+      {
+        "itemType": "Shields",
+        "sockets": 4,
+        "stats": [
+          "100% Chance To Cast level 40 Blaze When You Level Up",
+          "40% Chance To Cast Level 22 Firestorm On Striking",
+          "Level 10-15 Redemption Aura When Equipped",
+          "+350-400 Defense Vs. Missile",
+          "+350-400% Enhanced Damage",
+          "-28% To Enemy Fire Resistance",
+          "+50 To Life",
+          "+5% To Maximum Lightning Resist",
+          "+10% To Maximum Fire Resist",
+          "+15-21 Fire Absorb"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "rain-t1252",
+    "name": "Rain",
+    "url": "https://diablo2.io/runewords/rain-t1252.html",
+    "patch": "1.11",
+    "version": null,
+    "level": 49,
+    "sockets": 3,
+    "runes": [
+      "Ort",
+      "Mal",
+      "Ith"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "5% Chance To Cast Level 15 Cyclone Armor When Struck",
+      "5% Chance To Cast Level 15 Twister On Striking",
+      "+2 To Druid Skill Levels",
+      "+100-150 To Mana",
+      "Lightning Resist +30%",
+      "Magic Damage Reduced By 7",
+      "15% Damage Taken Goes to Mana"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "5% Chance To Cast Level 15 Cyclone Armor When Struck",
+          "5% Chance To Cast Level 15 Twister On Striking",
+          "+2 To Druid Skill Levels",
+          "+100-150 To Mana",
+          "Lightning Resist +30%",
+          "Magic Damage Reduced By 7",
+          "15% Damage Taken Goes to Mana"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "bramble-t1203",
+    "name": "Bramble",
+    "url": "https://diablo2.io/runewords/bramble-t1203.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 61,
+    "sockets": 4,
+    "runes": [
+      "Ral",
+      "Ohm",
+      "Sur",
+      "Eth"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 15-21 Thorns Aura When Equipped",
+      "+50% Faster Hit Recovery",
+      "+25-50% To Poison Skill Damage",
+      "+300 Defense",
+      "Increase Maximum Mana 5%",
+      "Regenerate Mana 15%",
+      "+5% To Maximum Cold Resist",
+      "Fire Resist +30%",
+      "Poison Resist +100%",
+      "+13 Life After Each Kill",
+      "Level 13 Spirit of Barbs (33 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 4,
+        "stats": [
+          "Level 15-21 Thorns Aura When Equipped",
+          "+50% Faster Hit Recovery",
+          "+25-50% To Poison Skill Damage",
+          "+300 Defense",
+          "Increase Maximum Mana 5%",
+          "Regenerate Mana 15%",
+          "+5% To Maximum Cold Resist",
+          "Fire Resist +30%",
+          "Poison Resist +100%",
+          "+13 Life After Each Kill",
+          "Level 13 Spirit of Barbs (33 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "spirit-t3",
+    "name": "Spirit",
+    "url": "https://diablo2.io/runewords/spirit-t3.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 25,
+    "sockets": 4,
+    "runes": [
+      "Tal",
+      "Thul",
+      "Ort",
+      "Amn"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Shields"
+    ],
+    "itemGroups": [],
+    "stats": [],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 4,
+        "stats": [
+          "+2 To All Skills",
+          "+25-35% Faster Cast Rate",
+          "+55% Faster Hit Recovery",
+          "Adds 1-50 Lightning Damage",
+          "Adds 3-14 Cold Damage 3 Second Duration",
+          "+75 Poison Damage Over 5 Seconds",
+          "7% Life Stolen Per Hit",
+          "+250 Defense Vs. Missile",
+          "+22 To Vitality",
+          "+89-112 To Mana",
+          "+3-8 Magic Absorb"
+        ]
+      },
+      {
+        "itemType": "Shields",
+        "sockets": 4,
+        "stats": [
+          "+2 To All Skills",
+          "+25-35% Faster Cast Rate",
+          "+55% Faster Hit Recovery",
+          "+250 Defense Vs. Missile",
+          "+22 To Vitality",
+          "+89-112 To Mana",
+          "Cold Resist +35%",
+          "Lightning Resist +35%",
+          "Poison Resist +35%",
+          "+3-8 Magic Absorb",
+          "Attacker Takes Damage of 14"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "steel-t1197",
+    "name": "Steel",
+    "url": "https://diablo2.io/runewords/steel-t1197.html",
+    "patch": "Original",
+    "version": null,
+    "level": 13,
+    "sockets": 2,
+    "runes": [
+      "Tir",
+      "El"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Axes",
+      "Maces"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "20% Enhanced Damage",
+      "+3 To Minimum Damage",
+      "+3 To Maximum Damage",
+      "+50 To Attack Rating",
+      "50% Chance Of Open Wounds",
+      "25% Increased Attack Speed",
+      "+2 To Mana After Each Kill",
+      "+1 To Light Radius"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 2,
+        "stats": [
+          "20% Enhanced Damage",
+          "+3 To Minimum Damage",
+          "+3 To Maximum Damage",
+          "+50 To Attack Rating",
+          "50% Chance Of Open Wounds",
+          "25% Increased Attack Speed",
+          "+2 To Mana After Each Kill",
+          "+1 To Light Radius"
+        ]
+      },
+      {
+        "itemType": "Axes",
+        "sockets": 2,
+        "stats": [
+          "20% Enhanced Damage",
+          "+3 To Minimum Damage",
+          "+3 To Maximum Damage",
+          "+50 To Attack Rating",
+          "50% Chance Of Open Wounds",
+          "25% Increased Attack Speed",
+          "+2 To Mana After Each Kill",
+          "+1 To Light Radius"
+        ]
+      },
+      {
+        "itemType": "Maces",
+        "sockets": 2,
+        "stats": [
+          "20% Enhanced Damage",
+          "+3 To Minimum Damage",
+          "+3 To Maximum Damage",
+          "+50 To Attack Rating",
+          "50% Chance Of Open Wounds",
+          "25% Increased Attack Speed",
+          "+2 To Mana After Each Kill",
+          "+1 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "peace-t1250",
+    "name": "Peace",
+    "url": "https://diablo2.io/runewords/peace-t1250.html",
+    "patch": "1.11",
+    "version": null,
+    "level": 29,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Thul",
+      "Amn"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "4% Chance To Cast Level 5 Slow Missiles When Struck",
+      "2% Chance To Cast level 15 Valkyrie On Striking",
+      "+2 To Amazon Skill Levels",
+      "+20% Faster Hit Recovery",
+      "+2 To Critical Strike",
+      "Cold Resist +30%",
+      "Attacker Takes Damage of 14"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "4% Chance To Cast Level 5 Slow Missiles When Struck",
+          "2% Chance To Cast level 15 Valkyrie On Striking",
+          "+2 To Amazon Skill Levels",
+          "+20% Faster Hit Recovery",
+          "+2 To Critical Strike",
+          "Cold Resist +30%",
+          "Attacker Takes Damage of 14"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "dragon-t1228",
+    "name": "Dragon",
+    "url": "https://diablo2.io/runewords/dragon-t1228.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 61,
+    "sockets": 3,
+    "runes": [
+      "Sur",
+      "Lo",
+      "Sol"
+    ],
+    "itemTypes": [
+      "Shields",
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "20% Chance to Cast Level 18 Venom: Skill When Struck",
+      "12% Chance To Cast Level 15 Hydra On Striking",
+      "Level 14 Holy Fire Aura When Equipped",
+      "+360 Defense",
+      "+230 Defense vs. Missile",
+      "+3-5 To All Attributes",
+      "+0.375-37.125 To Strength (Based on Character Level)",
+      "Increase Maximum Mana 5% (Armor Only)",
+      "+50 To Mana (Shields Only)",
+      "+5% To Maximum Lightning Resist",
+      "Damage Reduced by 7"
+    ],
+    "variants": [
+      {
+        "itemType": "Shields",
+        "sockets": 3,
+        "stats": [
+          "20% Chance to Cast Level 18 Venom: Skill When Struck",
+          "12% Chance To Cast Level 15 Hydra On Striking",
+          "Level 14 Holy Fire Aura When Equipped",
+          "+360 Defense",
+          "+230 Defense vs. Missile",
+          "+3-5 To All Attributes",
+          "+0.375-37.125 To Strength (Based on Character Level)",
+          "Increase Maximum Mana 5% (Armor Only)",
+          "+50 To Mana (Shields Only)",
+          "+5% To Maximum Lightning Resist",
+          "Damage Reduced by 7"
+        ]
+      },
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "20% Chance to Cast Level 18 Venom: Skill When Struck",
+          "12% Chance To Cast Level 15 Hydra On Striking",
+          "Level 14 Holy Fire Aura When Equipped",
+          "+360 Defense",
+          "+230 Defense vs. Missile",
+          "+3-5 To All Attributes",
+          "+0.375-37.125 To Strength (Based on Character Level)",
+          "Increase Maximum Mana 5% (Armor Only)",
+          "+50 To Mana (Shields Only)",
+          "+5% To Maximum Lightning Resist",
+          "Damage Reduced by 7"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "lionheart-t1187",
+    "name": "Lionheart",
+    "url": "https://diablo2.io/runewords/lionheart-t1187.html",
+    "patch": "Original",
+    "version": null,
+    "level": 41,
+    "sockets": 3,
+    "runes": [
+      "Hel",
+      "Lum",
+      "Fal"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+20% Enhanced Damage",
+      "Requirements -15%",
+      "+25 To Strength",
+      "+10 To Energy",
+      "+20 To Vitality",
+      "+15 To Dexterity",
+      "+50 To Life",
+      "All Resistances +30"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "+20% Enhanced Damage",
+          "Requirements -15%",
+          "+25 To Strength",
+          "+10 To Energy",
+          "+20 To Vitality",
+          "+15 To Dexterity",
+          "+50 To Life",
+          "All Resistances +30"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "bone-t1247",
+    "name": "Bone",
+    "url": "https://diablo2.io/runewords/bone-t1247.html",
+    "patch": "1.11",
+    "version": null,
+    "level": 47,
+    "sockets": 3,
+    "runes": [
+      "Sol",
+      "Um",
+      "Um"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "15% Chance To Cast level 10 Bone Armor When Struck",
+      "15% Chance To Cast level 10 Bone Spear On Striking",
+      "+2 To Necromancer Skill Levels",
+      "+100-150 To Mana",
+      "All Resistances +30",
+      "Damage Reduced By 7"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "15% Chance To Cast level 10 Bone Armor When Struck",
+          "15% Chance To Cast level 10 Bone Spear On Striking",
+          "+2 To Necromancer Skill Levels",
+          "+100-150 To Mana",
+          "All Resistances +30",
+          "Damage Reduced By 7"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "plague-t775670",
+    "name": "Plague",
+    "url": "https://diablo2.io/runewords/plague-t775670.html",
+    "patch": "2.4",
+    "version": "Data updated for 2.4",
+    "level": 67,
+    "sockets": 3,
+    "runes": [
+      "Cham",
+      "Shael",
+      "Um"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Katars",
+      "Daggers"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "20% Chance To Cast Level 12 Lower Resist When Struck",
+      "25% Chance to Cast Level 15 Poison Nova On Striking",
+      "Level 13-17 Cleansing Aura When Equipped",
+      "+1-2 To All Skills",
+      "+20% Increased Attack Speed",
+      "+220-320% Enhanced Damage",
+      "-23% To Enemy Poison Resistance",
+      "+0.3% (0-29.7) Deadly Strike (Based on Character Level)",
+      "+25% Chance of Open Wounds",
+      "Freezes Target +3"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 3,
+        "stats": [
+          "20% Chance To Cast Level 12 Lower Resist When Struck",
+          "25% Chance to Cast Level 15 Poison Nova On Striking",
+          "Level 13-17 Cleansing Aura When Equipped",
+          "+1-2 To All Skills",
+          "+20% Increased Attack Speed",
+          "+220-320% Enhanced Damage",
+          "-23% To Enemy Poison Resistance",
+          "+0.3% (0-29.7) Deadly Strike (Based on Character Level)",
+          "+25% Chance of Open Wounds",
+          "Freezes Target +3"
+        ]
+      },
+      {
+        "itemType": "Katars",
+        "sockets": 3,
+        "stats": [
+          "20% Chance To Cast Level 12 Lower Resist When Struck",
+          "25% Chance to Cast Level 15 Poison Nova On Striking",
+          "Level 13-17 Cleansing Aura When Equipped",
+          "+1-2 To All Skills",
+          "+20% Increased Attack Speed",
+          "+220-320% Enhanced Damage",
+          "-23% To Enemy Poison Resistance",
+          "+0.3% (0-29.7) Deadly Strike (Based on Character Level)",
+          "+25% Chance of Open Wounds",
+          "Freezes Target +3"
+        ]
+      },
+      {
+        "itemType": "Daggers",
+        "sockets": 3,
+        "stats": [
+          "20% Chance To Cast Level 12 Lower Resist When Struck",
+          "25% Chance to Cast Level 15 Poison Nova On Striking",
+          "Level 13-17 Cleansing Aura When Equipped",
+          "+1-2 To All Skills",
+          "+20% Increased Attack Speed",
+          "+220-320% Enhanced Damage",
+          "-23% To Enemy Poison Resistance",
+          "+0.3% (0-29.7) Deadly Strike (Based on Character Level)",
+          "+25% Chance of Open Wounds",
+          "Freezes Target +3"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "beast-t1202",
+    "name": "Beast",
+    "url": "https://diablo2.io/runewords/beast-t1202.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 63,
+    "sockets": 5,
+    "runes": [
+      "Ber",
+      "Tir",
+      "Um",
+      "Mal",
+      "Lum"
+    ],
+    "itemTypes": [
+      "Axes",
+      "Scepters",
+      "Hammers"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Level 9 Fanaticism Aura When Equipped",
+      "+40% Increased Attack Speed",
+      "+240-270% Enhanced Damage",
+      "20% Chance of Crushing Blow",
+      "25% Chance of Open Wounds",
+      "+3 To Werebear",
+      "+3 To Lycanthropy",
+      "Prevent Monster Heal",
+      "+25-40 To Strength",
+      "+10 To Energy",
+      "+2 To Mana After Each Kill",
+      "Level 13 Summon Grizzly (5 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Axes",
+        "sockets": 5,
+        "stats": [
+          "Level 9 Fanaticism Aura When Equipped",
+          "+40% Increased Attack Speed",
+          "+240-270% Enhanced Damage",
+          "20% Chance of Crushing Blow",
+          "25% Chance of Open Wounds",
+          "+3 To Werebear",
+          "+3 To Lycanthropy",
+          "Prevent Monster Heal",
+          "+25-40 To Strength",
+          "+10 To Energy",
+          "+2 To Mana After Each Kill",
+          "Level 13 Summon Grizzly (5 Charges)"
+        ]
+      },
+      {
+        "itemType": "Scepters",
+        "sockets": 5,
+        "stats": [
+          "Level 9 Fanaticism Aura When Equipped",
+          "+40% Increased Attack Speed",
+          "+240-270% Enhanced Damage",
+          "20% Chance of Crushing Blow",
+          "25% Chance of Open Wounds",
+          "+3 To Werebear",
+          "+3 To Lycanthropy",
+          "Prevent Monster Heal",
+          "+25-40 To Strength",
+          "+10 To Energy",
+          "+2 To Mana After Each Kill",
+          "Level 13 Summon Grizzly (5 Charges)"
+        ]
+      },
+      {
+        "itemType": "Hammers",
+        "sockets": 5,
+        "stats": [
+          "Level 9 Fanaticism Aura When Equipped",
+          "+40% Increased Attack Speed",
+          "+240-270% Enhanced Damage",
+          "20% Chance of Crushing Blow",
+          "25% Chance of Open Wounds",
+          "+3 To Werebear",
+          "+3 To Lycanthropy",
+          "Prevent Monster Heal",
+          "+25-40 To Strength",
+          "+10 To Energy",
+          "+2 To Mana After Each Kill",
+          "Level 13 Summon Grizzly (5 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "hustle-t1282118",
+    "name": "Hustle",
+    "url": "https://diablo2.io/runewords/hustle-t1282118.html",
+    "patch": "2.6",
+    "version": "New in 2.6",
+    "level": 39,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Ko",
+      "Eld"
+    ],
+    "itemTypes": [
+      "Weapons",
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 3,
+        "stats": [
+          "5% Chance to cast level 1 Burst of Speed on striking",
+          "Level 1 Fanaticism Aura When Equipped",
+          "+30% Increased Attack Speed",
+          "+180-200% Enhanced Damage",
+          "+75% Damage to Undead",
+          "+50 to Attack Rating against Undead",
+          "+10 to Dexterity"
+        ]
+      },
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "+65% Faster Run/Walk",
+          "+40% Increased Attack Speed",
+          "+20% Faster Hit Recovery",
+          "+6 to Evade",
+          "+10 to Dexterity",
+          "50% Slower Stamina Drain",
+          "+All Resistances +10"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": false,
+    "ladderNote": "Ladder only"
+  },
+  {
+    "id": "white-t1200",
+    "name": "White",
+    "url": "https://diablo2.io/runewords/white-t1200.html",
+    "patch": "Original",
+    "version": null,
+    "level": 35,
+    "sockets": 2,
+    "runes": [
+      "Dol",
+      "Io"
+    ],
+    "itemTypes": [
+      "Wands"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Hit Causes Monster To Flee 25%",
+      "+10 To Vitality",
+      "+3 To Poison and Bone Skills (Necromancer Only)",
+      "+3 To Bone Armor (Necromancer Only)",
+      "+2 To Bone Spear (Necromancer Only)",
+      "+4 To Skeleton Mastery (Necromancer Only)",
+      "Magic Damage Reduced By 4",
+      "20% Faster Cast Rate",
+      "+13 To Mana"
+    ],
+    "variants": [
+      {
+        "itemType": "Wands",
+        "sockets": 2,
+        "stats": [
+          "Hit Causes Monster To Flee 25%",
+          "+10 To Vitality",
+          "+3 To Poison and Bone Skills (Necromancer Only)",
+          "+3 To Bone Armor (Necromancer Only)",
+          "+2 To Bone Spear (Necromancer Only)",
+          "+4 To Skeleton Mastery (Necromancer Only)",
+          "Magic Damage Reduced By 4",
+          "20% Faster Cast Rate",
+          "+13 To Mana"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "holy-thunder-t1184",
+    "name": "Holy Thunder",
+    "url": "https://diablo2.io/runewords/holy-thunder-t1184.html",
+    "patch": "Original",
+    "version": null,
+    "level": 21,
+    "sockets": 4,
+    "runes": [
+      "Eth",
+      "Ral",
+      "Ort",
+      "Tal"
+    ],
+    "itemTypes": [
+      "Scepters"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+60% Enhanced Damage",
+      "-25% Target Defense",
+      "Adds 5-30 Fire Damage",
+      "Adds 21-110 Lightning Damage",
+      "+75 Poison Damage Over 5 Seconds",
+      "+10 To Maximum Damage",
+      "Lightning Resistance +60%",
+      "+5 To Maximum Lightning Resistance",
+      "+3 To Holy Shock (Paladin Only)",
+      "Level 7 Chain Lightning (60 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Scepters",
+        "sockets": 4,
+        "stats": [
+          "+60% Enhanced Damage",
+          "-25% Target Defense",
+          "Adds 5-30 Fire Damage",
+          "Adds 21-110 Lightning Damage",
+          "+75 Poison Damage Over 5 Seconds",
+          "+10 To Maximum Damage",
+          "Lightning Resistance +60%",
+          "+5 To Maximum Lightning Resistance",
+          "+3 To Holy Shock (Paladin Only)",
+          "Level 7 Chain Lightning (60 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "sanctuary-t1221",
+    "name": "Sanctuary",
+    "url": "https://diablo2.io/runewords/sanctuary-t1221.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 49,
+    "sockets": 3,
+    "runes": [
+      "Ko",
+      "Ko",
+      "Mal"
+    ],
+    "itemTypes": [
+      "Shields"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+20% Faster Hit Recovery",
+      "+20% Faster Block Rate",
+      "20% Increased Chance of Blocking",
+      "+130-160% Enhanced Defense",
+      "+250 Defense vs. Missile",
+      "+20 To Dexterity",
+      "All Resistances +50-70",
+      "Magic Damage Reduced By 7",
+      "Level 12 Slow Missiles (60 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Shields",
+        "sockets": 3,
+        "stats": [
+          "+20% Faster Hit Recovery",
+          "+20% Faster Block Rate",
+          "20% Increased Chance of Blocking",
+          "+130-160% Enhanced Defense",
+          "+250 Defense vs. Missile",
+          "+20 To Dexterity",
+          "All Resistances +50-70",
+          "Magic Damage Reduced By 7",
+          "Level 12 Slow Missiles (60 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "ancients-pledge-t46",
+    "name": "Ancients' Pledge",
+    "url": "https://diablo2.io/runewords/ancients-pledge-t46.html",
+    "patch": "Original",
+    "version": null,
+    "level": 21,
+    "sockets": 3,
+    "runes": [
+      "Ral",
+      "Ort",
+      "Tal"
+    ],
+    "itemTypes": [
+      "Shields"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+50% Enhanced Defense",
+      "Cold Resist +43%",
+      "Fire Resist +48%",
+      "Lightning Resist +48%",
+      "Poison Resist +48%",
+      "10% Damage Goes To Mana"
+    ],
+    "variants": [
+      {
+        "itemType": "Shields",
+        "sockets": 3,
+        "stats": [
+          "+50% Enhanced Defense",
+          "Cold Resist +43%",
+          "Fire Resist +48%",
+          "Lightning Resist +48%",
+          "Poison Resist +48%",
+          "10% Damage Goes To Mana"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "hand-of-justice-t1216",
+    "name": "Hand of Justice",
+    "url": "https://diablo2.io/runewords/hand-of-justice-t1216.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 67,
+    "sockets": 4,
+    "runes": [
+      "Sur",
+      "Cham",
+      "Amn",
+      "Lo"
+    ],
+    "itemTypes": [
+      "Weapons"
+    ],
+    "itemGroups": [
+      "Weapons"
+    ],
+    "stats": [
+      "100% Chance To Cast Level 36 Blaze When You Level Up",
+      "100% Chance To Cast Level 48 Meteor When You Die",
+      "Level 16 Holy Fire Aura When Equipped",
+      "+33% Increased Attack Speed",
+      "+280-330% Enhanced Damage",
+      "Ignore Target's Defense",
+      "7% Life Stolen Per Hit",
+      "-20% To Enemy Fire Resistance",
+      "20% Deadly Strike",
+      "Hit Blinds Target",
+      "Freezes Target +3"
+    ],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 4,
+        "stats": [
+          "100% Chance To Cast Level 36 Blaze When You Level Up",
+          "100% Chance To Cast Level 48 Meteor When You Die",
+          "Level 16 Holy Fire Aura When Equipped",
+          "+33% Increased Attack Speed",
+          "+280-330% Enhanced Damage",
+          "Ignore Target's Defense",
+          "7% Life Stolen Per Hit",
+          "-20% To Enemy Fire Resistance",
+          "20% Deadly Strike",
+          "Hit Blinds Target",
+          "Freezes Target +3"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "kingslayer-t1218",
+    "name": "Kingslayer",
+    "url": "https://diablo2.io/runewords/kingslayer-t1218.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 53,
+    "sockets": 4,
+    "runes": [
+      "Mal",
+      "Um",
+      "Gul",
+      "Fal"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Axes"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+30% Increased Attack Speed",
+      "+230-270% Enhanced Damage",
+      "-25% Target Defense",
+      "20% Bonus To Attack Rating",
+      "33% Chance of Crushing Blow",
+      "50% Chance of Open Wounds",
+      "+1 To Vengeance",
+      "Prevent Monster Heal",
+      "+10 To Strength",
+      "40% Extra Gold From Monsters"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 4,
+        "stats": [
+          "+30% Increased Attack Speed",
+          "+230-270% Enhanced Damage",
+          "-25% Target Defense",
+          "20% Bonus To Attack Rating",
+          "33% Chance of Crushing Blow",
+          "50% Chance of Open Wounds",
+          "+1 To Vengeance",
+          "Prevent Monster Heal",
+          "+10 To Strength",
+          "40% Extra Gold From Monsters"
+        ]
+      },
+      {
+        "itemType": "Axes",
+        "sockets": 4,
+        "stats": [
+          "+30% Increased Attack Speed",
+          "+230-270% Enhanced Damage",
+          "-25% Target Defense",
+          "20% Bonus To Attack Rating",
+          "33% Chance of Crushing Blow",
+          "50% Chance of Open Wounds",
+          "+1 To Vengeance",
+          "Prevent Monster Heal",
+          "+10 To Strength",
+          "40% Extra Gold From Monsters"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "duress-t1211",
+    "name": "Duress",
+    "url": "https://diablo2.io/runewords/duress-t1211.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 47,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Um",
+      "Thul"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+40% Faster Hit Recovery",
+      "+10-20% Enhanced Damage",
+      "Adds 37-133 Cold Damage 2 sec. Duration",
+      "15% Chance of Crushing Blow",
+      "33% Chance of Open Wounds",
+      "+150-200% Enhanced Defense",
+      "-20% Slower Stamina Drain",
+      "Cold Resist +45%",
+      "Lightning Resist +15%",
+      "Fire Resist +15%",
+      "Poison Resist +15%"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "+40% Faster Hit Recovery",
+          "+10-20% Enhanced Damage",
+          "Adds 37-133 Cold Damage 2 sec. Duration",
+          "15% Chance of Crushing Blow",
+          "33% Chance of Open Wounds",
+          "+150-200% Enhanced Defense",
+          "-20% Slower Stamina Drain",
+          "Cold Resist +45%",
+          "Lightning Resist +15%",
+          "Fire Resist +15%",
+          "Poison Resist +15%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "stealth-t1196",
+    "name": "Stealth",
+    "url": "https://diablo2.io/runewords/stealth-t1196.html",
+    "patch": "Original",
+    "version": null,
+    "level": 17,
+    "sockets": 2,
+    "runes": [
+      "Tal",
+      "Eth"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "Magic Damage Reduced By 3",
+      "+6 To Dexterity",
+      "+15 To Maximum Stamina",
+      "Poison Resist +30%",
+      "Regenerate Mana 15%",
+      "25% Faster Run/Walk",
+      "25% Faster Cast Rate",
+      "25% Faster Hit Recovery"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 2,
+        "stats": [
+          "Magic Damage Reduced By 3",
+          "+6 To Dexterity",
+          "+15 To Maximum Stamina",
+          "Poison Resist +30%",
+          "Regenerate Mana 15%",
+          "25% Faster Run/Walk",
+          "25% Faster Cast Rate",
+          "25% Faster Hit Recovery"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "venom-t1198",
+    "name": "Venom",
+    "url": "https://diablo2.io/runewords/venom-t1198.html",
+    "patch": "Original",
+    "version": null,
+    "level": 49,
+    "sockets": 3,
+    "runes": [
+      "Tal",
+      "Dol",
+      "Mal"
+    ],
+    "itemTypes": [
+      "Weapons"
+    ],
+    "itemGroups": [
+      "Weapons"
+    ],
+    "stats": [
+      "Hit Causes Monster To Flee 25%",
+      "Prevent Monster Heal",
+      "Ignore Target's Defense",
+      "7% Mana Stolen Per Hit",
+      "Level 15 Poison Explosion (27 Charges)",
+      "Level 13 Poison Nova (11 Charges)",
+      "+273 Poison Damage Over 6 seconds"
+    ],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 3,
+        "stats": [
+          "Hit Causes Monster To Flee 25%",
+          "Prevent Monster Heal",
+          "Ignore Target's Defense",
+          "7% Mana Stolen Per Hit",
+          "Level 15 Poison Explosion (27 Charges)",
+          "Level 13 Poison Nova (11 Charges)",
+          "+273 Poison Damage Over 6 seconds"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "lore-t1188",
+    "name": "Lore",
+    "url": "https://diablo2.io/runewords/lore-t1188.html",
+    "patch": "Original",
+    "version": null,
+    "level": 27,
+    "sockets": 2,
+    "runes": [
+      "Ort",
+      "Sol"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+1 To All Skills",
+      "+10 To Energy",
+      "+2 To Mana After Each Kill",
+      "Lightning Resist +30%",
+      "Damage Reduced By 7",
+      "+2 To Light Radius"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 2,
+        "stats": [
+          "+1 To All Skills",
+          "+10 To Energy",
+          "+2 To Mana After Each Kill",
+          "Lightning Resist +30%",
+          "Damage Reduced By 7",
+          "+2 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "wealth-t1199",
+    "name": "Wealth",
+    "url": "https://diablo2.io/runewords/wealth-t1199.html",
+    "patch": "Original",
+    "version": null,
+    "level": 43,
+    "sockets": 3,
+    "runes": [
+      "Lem",
+      "Ko",
+      "Tir"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "300% Extra Gold From Monsters",
+      "100% Better Chance Of Getting Magic Items",
+      "+2 To Mana After Each Kill",
+      "+10 To Dexterity"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "300% Extra Gold From Monsters",
+          "100% Better Chance Of Getting Magic Items",
+          "+2 To Mana After Each Kill",
+          "+10 To Dexterity"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "malice-t1189",
+    "name": "Malice",
+    "url": "https://diablo2.io/runewords/malice-t1189.html",
+    "patch": "Original",
+    "version": null,
+    "level": 15,
+    "sockets": 3,
+    "runes": [
+      "Ith",
+      "El",
+      "Eth"
+    ],
+    "itemTypes": [
+      "Melee Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+33% Enhanced Damage",
+      "+9 To Maximum Damage",
+      "100% Chance Of Open Wounds",
+      "-25% Target Defense",
+      "-100 To Monster Defense per Hit",
+      "Prevent Monster Heal",
+      "+50 To Attack Rating",
+      "Drain Life -5"
+    ],
+    "variants": [
+      {
+        "itemType": "Melee Weapons",
+        "sockets": 3,
+        "stats": [
+          "+33% Enhanced Damage",
+          "+9 To Maximum Damage",
+          "100% Chance Of Open Wounds",
+          "-25% Target Defense",
+          "-100 To Monster Defense per Hit",
+          "Prevent Monster Heal",
+          "+50 To Attack Rating",
+          "Drain Life -5"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "fury-t1183",
+    "name": "Fury",
+    "url": "https://diablo2.io/runewords/fury-t1183.html",
+    "patch": "Original",
+    "version": null,
+    "level": 65,
+    "sockets": 3,
+    "runes": [
+      "Jah",
+      "Gul",
+      "Eth"
+    ],
+    "itemTypes": [
+      "Melee Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+209% Enhanced Damage",
+      "40% Increased Attack Speed",
+      "Prevent Monster Heal",
+      "66% Chance of Open Wounds",
+      "33% Chance of Deadly Strike",
+      "-25% Target Defense",
+      "20% to Attack Rating",
+      "6% Life Stolen Per Hit",
+      "Ignores Target Defense",
+      "+5 to Frenzy (Barbarian only)"
+    ],
+    "variants": [
+      {
+        "itemType": "Melee Weapons",
+        "sockets": 3,
+        "stats": [
+          "+209% Enhanced Damage",
+          "40% Increased Attack Speed",
+          "Prevent Monster Heal",
+          "66% Chance of Open Wounds",
+          "33% Chance of Deadly Strike",
+          "-25% Target Defense",
+          "20% to Attack Rating",
+          "6% Life Stolen Per Hit",
+          "Ignores Target Defense",
+          "+5 to Frenzy (Barbarian only)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "call-to-arms-t1205",
+    "name": "Call To Arms",
+    "url": "https://diablo2.io/runewords/call-to-arms-t1205.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 57,
+    "sockets": 5,
+    "runes": [
+      "Amn",
+      "Ral",
+      "Mal",
+      "Ist",
+      "Ohm"
+    ],
+    "itemTypes": [
+      "Weapons"
+    ],
+    "itemGroups": [
+      "Weapons"
+    ],
+    "stats": [
+      "+1 To All Skills",
+      "+40% Increased Attack Speed",
+      "+250-290% Enhanced Damage",
+      "Adds 5-30 Fire Damage",
+      "7% Life Stolen Per Hit",
+      "+2-6 To Battle Command",
+      "+1-6 To Battle Orders",
+      "+1-4 To Battle Cry",
+      "Prevent Monster Heal",
+      "Replenish Life +12",
+      "30% Better Chance of Getting Magic Items"
+    ],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 5,
+        "stats": [
+          "+1 To All Skills",
+          "+40% Increased Attack Speed",
+          "+250-290% Enhanced Damage",
+          "Adds 5-30 Fire Damage",
+          "7% Life Stolen Per Hit",
+          "+2-6 To Battle Command",
+          "+1-6 To Battle Orders",
+          "+1-4 To Battle Cry",
+          "Prevent Monster Heal",
+          "Replenish Life +12",
+          "30% Better Chance of Getting Magic Items"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "chaos-t1207",
+    "name": "Chaos",
+    "url": "https://diablo2.io/runewords/chaos-t1207.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 57,
+    "sockets": 3,
+    "runes": [
+      "Fal",
+      "Ohm",
+      "Um"
+    ],
+    "itemTypes": [
+      "Katars"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "9% Chance To Cast Level 11 Frozen Orb On Striking",
+      "11% Chance To Cast Level 9 Charged Bolt On Striking",
+      "+35% Increased Attack Speed",
+      "+290-340% Enhanced Damage",
+      "Adds 216-471 Magic Damage",
+      "25% Chance of Open Wounds",
+      "+1 To Whirlwind",
+      "+10 To Strength",
+      "+15 Life After Each Demon Kill"
+    ],
+    "variants": [
+      {
+        "itemType": "Katars",
+        "sockets": 3,
+        "stats": [
+          "9% Chance To Cast Level 11 Frozen Orb On Striking",
+          "11% Chance To Cast Level 9 Charged Bolt On Striking",
+          "+35% Increased Attack Speed",
+          "+290-340% Enhanced Damage",
+          "Adds 216-471 Magic Damage",
+          "25% Chance of Open Wounds",
+          "+1 To Whirlwind",
+          "+10 To Strength",
+          "+15 Life After Each Demon Kill"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "breath-of-the-dying-t1204",
+    "name": "Breath of the Dying",
+    "url": "https://diablo2.io/runewords/breath-of-the-dying-t1204.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 69,
+    "sockets": 6,
+    "runes": [
+      "Vex",
+      "Hel",
+      "El",
+      "Eld",
+      "Zod",
+      "Eth"
+    ],
+    "itemTypes": [
+      "Weapons"
+    ],
+    "itemGroups": [
+      "Weapons"
+    ],
+    "stats": [
+      "50% Chance To Cast Level 20 Poison Nova When You Kill An Enemy",
+      "Indestructible",
+      "+60% Increased Attack Speed",
+      "+350-400% Enhanced Damage",
+      "+200% Damage To Undead",
+      "-25% Target Defense",
+      "+50 To Attack Rating",
+      "+50 To Attack Rating Against Undead",
+      "7% Mana Stolen per Hit",
+      "12-15% Life Stolen per Hit",
+      "Prevent Monster Heal",
+      "+30 To All Attributes",
+      "+1 To Light Radius",
+      "Requirements -20%"
+    ],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 6,
+        "stats": [
+          "50% Chance To Cast Level 20 Poison Nova When You Kill An Enemy",
+          "Indestructible",
+          "+60% Increased Attack Speed",
+          "+350-400% Enhanced Damage",
+          "+200% Damage To Undead",
+          "-25% Target Defense",
+          "+50 To Attack Rating",
+          "+50 To Attack Rating Against Undead",
+          "7% Mana Stolen per Hit",
+          "12-15% Life Stolen per Hit",
+          "Prevent Monster Heal",
+          "+30 To All Attributes",
+          "+1 To Light Radius",
+          "Requirements -20%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "grief-t1233",
+    "name": "Grief",
+    "url": "https://diablo2.io/runewords/grief-t1233.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 59,
+    "sockets": 5,
+    "runes": [
+      "Eth",
+      "Tir",
+      "Lo",
+      "Mal",
+      "Ral"
+    ],
+    "itemTypes": [
+      "Axes",
+      "Swords"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "35% Chance To Cast Level 15 Venom: Skill On Striking",
+      "+30-40% Increased Attack Speed",
+      "Damage +340-400",
+      "Ignore Target's Defense",
+      "-25% Target Defense",
+      "+(1.875 per character level) 1.875-185.625% Damage To Demons (Based on Character Level)",
+      "Adds 5-30 Fire Damage",
+      "-20-25% To Enemy Poison Resistance",
+      "20% Deadly Strike",
+      "Prevent Monster Heal",
+      "+2 To Mana After Each Kill",
+      "+10-15 Life After Each Kill"
+    ],
+    "variants": [
+      {
+        "itemType": "Axes",
+        "sockets": 5,
+        "stats": [
+          "35% Chance To Cast Level 15 Venom: Skill On Striking",
+          "+30-40% Increased Attack Speed",
+          "Damage +340-400",
+          "Ignore Target's Defense",
+          "-25% Target Defense",
+          "+(1.875 per character level) 1.875-185.625% Damage To Demons (Based on Character Level)",
+          "Adds 5-30 Fire Damage",
+          "-20-25% To Enemy Poison Resistance",
+          "20% Deadly Strike",
+          "Prevent Monster Heal",
+          "+2 To Mana After Each Kill",
+          "+10-15 Life After Each Kill"
+        ]
+      },
+      {
+        "itemType": "Swords",
+        "sockets": 5,
+        "stats": [
+          "35% Chance To Cast Level 15 Venom: Skill On Striking",
+          "+30-40% Increased Attack Speed",
+          "Damage +340-400",
+          "Ignore Target's Defense",
+          "-25% Target Defense",
+          "+(1.875 per character level) 1.875-185.625% Damage To Demons (Based on Character Level)",
+          "Adds 5-30 Fire Damage",
+          "-20-25% To Enemy Poison Resistance",
+          "20% Deadly Strike",
+          "Prevent Monster Heal",
+          "+2 To Mana After Each Kill",
+          "+10-15 Life After Each Kill"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "fortitude-t1232",
+    "name": "Fortitude",
+    "url": "https://diablo2.io/runewords/fortitude-t1232.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 59,
+    "sockets": 4,
+    "runes": [
+      "El",
+      "Sol",
+      "Dol",
+      "Lo"
+    ],
+    "itemTypes": [
+      "Weapons",
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 4,
+        "stats": [
+          "20% Chance To Cast Level 15 Chilling Armor when Struck",
+          "+25% Faster Cast Rate",
+          "+300% Enhanced Damage",
+          "+9 To Minimum Damage",
+          "+50 To Attack Rating",
+          "20% Deadly Strike",
+          "Hit Causes Monster To Flee 25%",
+          "+200% Enhanced Defense",
+          "+((8-12)*0.125*CLVL) To Life (Based on Character Level)",
+          "All Resistances +25-30",
+          "12% Damage Taken Goes To Mana",
+          "+1 To Light Radius"
+        ]
+      },
+      {
+        "itemType": "Body Armor",
+        "sockets": 4,
+        "stats": [
+          "20% Chance To Cast Level 15 Chilling Armor when Struck",
+          "+25% Faster Cast Rate",
+          "+300% Enhanced Damage",
+          "+200% Enhanced Defense",
+          "+15 Defense",
+          "+((8-12)*0.125*CLVL) To Life (Based on Character Level)",
+          "Replenish Life +7",
+          "+5% To Maximum Lightning Resist",
+          "All Resistances +25-30",
+          "Damage Reduced By 7",
+          "12% Damage Taken Goes To Mana",
+          "+1 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "ice-t1235",
+    "name": "Ice",
+    "url": "https://diablo2.io/runewords/ice-t1235.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 4,
+    "runes": [
+      "Amn",
+      "Shael",
+      "Jah",
+      "Lo"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "100% Chance To Cast Level 40 Blizzard When You Level Up",
+      "25% Chance To Cast Level 22 Frost Nova On Striking",
+      "Level 18 Holy Freeze Aura When Equipped",
+      "+20% Increased Attack Speed",
+      "+140-210% Enhanced Damage",
+      "Ignore Target's Defense",
+      "+25-30% To Cold Skill Damage",
+      "-20% To Enemy Cold Resistance",
+      "7% Life Stolen Per Hit",
+      "20% Deadly Strike",
+      "3.125-309.375% Extra Gold From Monsters (Based on Character Level)"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 4,
+        "stats": [
+          "100% Chance To Cast Level 40 Blizzard When You Level Up",
+          "25% Chance To Cast Level 22 Frost Nova On Striking",
+          "Level 18 Holy Freeze Aura When Equipped",
+          "+20% Increased Attack Speed",
+          "+140-210% Enhanced Damage",
+          "Ignore Target's Defense",
+          "+25-30% To Cold Skill Damage",
+          "-20% To Enemy Cold Resistance",
+          "7% Life Stolen Per Hit",
+          "20% Deadly Strike",
+          "3.125-309.375% Extra Gold From Monsters (Based on Character Level)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "delirium-t1209",
+    "name": "Delirium",
+    "url": "https://diablo2.io/runewords/delirium-t1209.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 51,
+    "sockets": 3,
+    "runes": [
+      "Lem",
+      "Ist",
+      "Io"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "1% Chance To Cast Level 50 Delirium (morph) When Struck",
+      "6% Chance To Cast Level 14 Mind Blast When Struck",
+      "14% Chance To Cast Level 13 Terror When Struck",
+      "11% Chance To Cast Level 18 Confuse On Striking",
+      "+2 To All Skills",
+      "+261 Defense",
+      "+10 To Vitality",
+      "50% Extra Gold From Monsters",
+      "25% Better Chance of Getting Magic Items",
+      "Level 17 Attract (60 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "1% Chance To Cast Level 50 Delirium (morph) When Struck",
+          "6% Chance To Cast Level 14 Mind Blast When Struck",
+          "14% Chance To Cast Level 13 Terror When Struck",
+          "11% Chance To Cast Level 18 Confuse On Striking",
+          "+2 To All Skills",
+          "+261 Defense",
+          "+10 To Vitality",
+          "50% Extra Gold From Monsters",
+          "25% Better Chance of Getting Magic Items",
+          "Level 17 Attract (60 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "gloom-t1215",
+    "name": "Gloom",
+    "url": "https://diablo2.io/runewords/gloom-t1215.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 47,
+    "sockets": 3,
+    "runes": [
+      "Fal",
+      "Um",
+      "Pul"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "15% Chance To Cast Level 3 Dim Vision When Struck",
+      "+10% Faster Hit Recovery",
+      "+200-260% Enhanced Defense",
+      "+10 To Strength",
+      "All Resistances +45",
+      "Half Freeze Duration",
+      "5% Damage Taken Goes To Mana",
+      "-3 To Light Radius"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "15% Chance To Cast Level 3 Dim Vision When Struck",
+          "+10% Faster Hit Recovery",
+          "+200-260% Enhanced Defense",
+          "+10 To Strength",
+          "All Resistances +45",
+          "Half Freeze Duration",
+          "5% Damage Taken Goes To Mana",
+          "-3 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "radiance-t1193",
+    "name": "Radiance",
+    "url": "https://diablo2.io/runewords/radiance-t1193.html",
+    "patch": "Original",
+    "version": null,
+    "level": 27,
+    "sockets": 3,
+    "runes": [
+      "Nef",
+      "Sol",
+      "Ith"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+75% Enhanced Defense",
+      "+30 Defense Vs. Missile",
+      "+10 To Energy",
+      "+10 To Vitality",
+      "15% Damage Taken Goes To Mana",
+      "Magic Damage Reduced By 3",
+      "+33 To Mana",
+      "Damage Reduced By 7",
+      "+5 To Light Radius"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "+75% Enhanced Defense",
+          "+30 Defense Vs. Missile",
+          "+10 To Energy",
+          "+10 To Vitality",
+          "15% Damage Taken Goes To Mana",
+          "Magic Damage Reduced By 3",
+          "+33 To Mana",
+          "Damage Reduced By 7",
+          "+5 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "silence-t55",
+    "name": "Silence",
+    "url": "https://diablo2.io/runewords/silence-t55.html",
+    "patch": "Original",
+    "version": null,
+    "level": 55,
+    "sockets": 6,
+    "runes": [
+      "Dol",
+      "Eld",
+      "Hel",
+      "Ist",
+      "Tir",
+      "Vex"
+    ],
+    "itemTypes": [
+      "Weapons"
+    ],
+    "itemGroups": [
+      "Weapons"
+    ],
+    "stats": [
+      "200% Enhanced Damage",
+      "+75% Damage To Undead",
+      "Requirements -20%",
+      "20% Increased Attack Speed",
+      "+50 To Attack Rating Against Undead",
+      "+2 To All Skills",
+      "All Resistances +75",
+      "20% Faster Hit Recovery",
+      "11% Mana Stolen Per Hit",
+      "Hit Causes Monster To Flee 25%",
+      "Hit Blinds Target +33",
+      "+2 To Mana After Each Kill",
+      "30% Better Chance Of Getting Magic Items"
+    ],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 6,
+        "stats": [
+          "200% Enhanced Damage",
+          "+75% Damage To Undead",
+          "Requirements -20%",
+          "20% Increased Attack Speed",
+          "+50 To Attack Rating Against Undead",
+          "+2 To All Skills",
+          "All Resistances +75",
+          "20% Faster Hit Recovery",
+          "11% Mana Stolen Per Hit",
+          "Hit Causes Monster To Flee 25%",
+          "Hit Blinds Target +33",
+          "+2 To Mana After Each Kill",
+          "30% Better Chance Of Getting Magic Items"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "melody-t1190",
+    "name": "Melody",
+    "url": "https://diablo2.io/runewords/melody-t1190.html",
+    "patch": "Original",
+    "version": null,
+    "level": 39,
+    "sockets": 3,
+    "runes": [
+      "Shael",
+      "Ko",
+      "Nef"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+50% Enhanced Damage",
+      "+300% Damage To Undead",
+      "+3 To Bow and Crossbow Skills (Amazon Only)",
+      "+3 To Critical Strike (Amazon Only)",
+      "+3 To Dodge (Amazon Only)",
+      "+3 To Slow Missiles (Amazon Only)",
+      "20% Increased Attack Speed",
+      "+10 To Dexterity",
+      "Knockback"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 3,
+        "stats": [
+          "+50% Enhanced Damage",
+          "+300% Damage To Undead",
+          "+3 To Bow and Crossbow Skills (Amazon Only)",
+          "+3 To Critical Strike (Amazon Only)",
+          "+3 To Dodge (Amazon Only)",
+          "+3 To Slow Missiles (Amazon Only)",
+          "20% Increased Attack Speed",
+          "+10 To Dexterity",
+          "Knockback"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "lawbringer-t1239",
+    "name": "Lawbringer",
+    "url": "https://diablo2.io/runewords/lawbringer-t1239.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 43,
+    "sockets": 3,
+    "runes": [
+      "Amn",
+      "Lem",
+      "Ko"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Hammers",
+      "Scepters"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "20% Chance To Cast Level 15 Decrepify On Striking",
+      "Level 16-18 Sanctuary Aura When Equipped",
+      "-50% Target Defense",
+      "Adds 150-210 Fire Damage",
+      "Adds 130-180 Cold Damage",
+      "7% Life Stolen Per Hit",
+      "Slain Monsters Rest In Peace",
+      "+200-250 Defense Vs. Missile",
+      "+10 To Dexterity",
+      "75% Extra Gold From Monsters"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 3,
+        "stats": [
+          "20% Chance To Cast Level 15 Decrepify On Striking",
+          "Level 16-18 Sanctuary Aura When Equipped",
+          "-50% Target Defense",
+          "Adds 150-210 Fire Damage",
+          "Adds 130-180 Cold Damage",
+          "7% Life Stolen Per Hit",
+          "Slain Monsters Rest In Peace",
+          "+200-250 Defense Vs. Missile",
+          "+10 To Dexterity",
+          "75% Extra Gold From Monsters"
+        ]
+      },
+      {
+        "itemType": "Hammers",
+        "sockets": 3,
+        "stats": [
+          "20% Chance To Cast Level 15 Decrepify On Striking",
+          "Level 16-18 Sanctuary Aura When Equipped",
+          "-50% Target Defense",
+          "Adds 150-210 Fire Damage",
+          "Adds 130-180 Cold Damage",
+          "7% Life Stolen Per Hit",
+          "Slain Monsters Rest In Peace",
+          "+200-250 Defense Vs. Missile",
+          "+10 To Dexterity",
+          "75% Extra Gold From Monsters"
+        ]
+      },
+      {
+        "itemType": "Scepters",
+        "sockets": 3,
+        "stats": [
+          "20% Chance To Cast Level 15 Decrepify On Striking",
+          "Level 16-18 Sanctuary Aura When Equipped",
+          "-50% Target Defense",
+          "Adds 150-210 Fire Damage",
+          "Adds 130-180 Cold Damage",
+          "7% Life Stolen Per Hit",
+          "Slain Monsters Rest In Peace",
+          "+200-250 Defense Vs. Missile",
+          "+10 To Dexterity",
+          "75% Extra Gold From Monsters"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "destruction-t1227",
+    "name": "Destruction",
+    "url": "https://diablo2.io/runewords/destruction-t1227.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 5,
+    "runes": [
+      "Vex",
+      "Lo",
+      "Ber",
+      "Jah",
+      "Ko"
+    ],
+    "itemTypes": [
+      "Polearms",
+      "Swords"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "23% Chance To Cast Level 12 Volcano On Striking",
+      "5% Chance To Cast Level 23 Molten Boulder On Striking",
+      "100% Chance To Cast level 45 Meteor When You Die",
+      "15% Chance To Cast Level 22 Nova On Attack",
+      "+350% Enhanced Damage",
+      "Ignore Target's Defense",
+      "Adds 100-180 Magic Damage",
+      "7% Mana Stolen Per Hit",
+      "20% Chance Of Crushing Blow",
+      "20% Deadly Strike",
+      "Prevent Monster Heal",
+      "+10 To Dexterity"
+    ],
+    "variants": [
+      {
+        "itemType": "Polearms",
+        "sockets": 5,
+        "stats": [
+          "23% Chance To Cast Level 12 Volcano On Striking",
+          "5% Chance To Cast Level 23 Molten Boulder On Striking",
+          "100% Chance To Cast level 45 Meteor When You Die",
+          "15% Chance To Cast Level 22 Nova On Attack",
+          "+350% Enhanced Damage",
+          "Ignore Target's Defense",
+          "Adds 100-180 Magic Damage",
+          "7% Mana Stolen Per Hit",
+          "20% Chance Of Crushing Blow",
+          "20% Deadly Strike",
+          "Prevent Monster Heal",
+          "+10 To Dexterity"
+        ]
+      },
+      {
+        "itemType": "Swords",
+        "sockets": 5,
+        "stats": [
+          "23% Chance To Cast Level 12 Volcano On Striking",
+          "5% Chance To Cast Level 23 Molten Boulder On Striking",
+          "100% Chance To Cast level 45 Meteor When You Die",
+          "15% Chance To Cast Level 22 Nova On Attack",
+          "+350% Enhanced Damage",
+          "Ignore Target's Defense",
+          "Adds 100-180 Magic Damage",
+          "7% Mana Stolen Per Hit",
+          "20% Chance Of Crushing Blow",
+          "20% Deadly Strike",
+          "Prevent Monster Heal",
+          "+10 To Dexterity"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "chains-of-honor-t1206",
+    "name": "Chains of Honor",
+    "url": "https://diablo2.io/runewords/chains-of-honor-t1206.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 63,
+    "sockets": 4,
+    "runes": [
+      "Dol",
+      "Um",
+      "Ber",
+      "Ist"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+2 To All Skills",
+      "+200% Damage To Demons",
+      "+100% Damage To Undead",
+      "8% Life Stolen Per Hit",
+      "+70% Enhanced Defense",
+      "+20 To Strength",
+      "Replenish Life +7",
+      "All Resistances +65",
+      "Damage Reduced By 8%",
+      "25% Better Chance of Getting Magic Items"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 4,
+        "stats": [
+          "+2 To All Skills",
+          "+200% Damage To Demons",
+          "+100% Damage To Undead",
+          "8% Life Stolen Per Hit",
+          "+70% Enhanced Defense",
+          "+20 To Strength",
+          "Replenish Life +7",
+          "All Resistances +65",
+          "Damage Reduced By 8%",
+          "25% Better Chance of Getting Magic Items"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "wisdom-t785743",
+    "name": "Wisdom",
+    "url": "https://diablo2.io/runewords/wisdom-t785743.html",
+    "patch": "2.4",
+    "version": "Data updated for 2.4",
+    "level": 45,
+    "sockets": 3,
+    "runes": [
+      "Pul",
+      "Ith",
+      "Eld"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+33% Piercing Attack",
+      "+15-25% Bonus to Attack Rating",
+      "4-8% Mana Stolen Per Hit",
+      "+30% Enhanced Defense",
+      "+10 Energy",
+      "15% Slower Stamina Drain",
+      "Cannot Be Frozen",
+      "+5 Mana After Each Kill",
+      "15% Damage Taken Goes to Mana"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 3,
+        "stats": [
+          "+33% Piercing Attack",
+          "+15-25% Bonus to Attack Rating",
+          "4-8% Mana Stolen Per Hit",
+          "+30% Enhanced Defense",
+          "+10 Energy",
+          "15% Slower Stamina Drain",
+          "Cannot Be Frozen",
+          "+5 Mana After Each Kill",
+          "15% Damage Taken Goes to Mana"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "exile-t1213",
+    "name": "Exile",
+    "url": "https://diablo2.io/runewords/exile-t1213.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 57,
+    "sockets": 4,
+    "runes": [
+      "Vex",
+      "Ohm",
+      "Ist",
+      "Dol"
+    ],
+    "itemTypes": [
+      "Paladin Shields"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "15% Chance To Cast Level 5 Life Tap On Striking",
+      "Level 13-16 Defiance Aura When Equipped",
+      "+2 To Offensive Auras (Paladin Only)",
+      "+30% Faster Block Rate",
+      "Freezes Target",
+      "+220-260% Enhanced Defense",
+      "Replenish Life +7",
+      "+5% To Maximum Cold Resist",
+      "+5% To Maximum Fire Resist",
+      "25% Better Chance Of Getting Magic Items",
+      "Repairs 1 Durability in 4 Seconds"
+    ],
+    "variants": [
+      {
+        "itemType": "Paladin Shields",
+        "sockets": 4,
+        "stats": [
+          "15% Chance To Cast Level 5 Life Tap On Striking",
+          "Level 13-16 Defiance Aura When Equipped",
+          "+2 To Offensive Auras (Paladin Only)",
+          "+30% Faster Block Rate",
+          "Freezes Target",
+          "+220-260% Enhanced Defense",
+          "Replenish Life +7",
+          "+5% To Maximum Cold Resist",
+          "+5% To Maximum Fire Resist",
+          "25% Better Chance Of Getting Magic Items",
+          "Repairs 1 Durability in 4 Seconds"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "wind-t1224",
+    "name": "Wind",
+    "url": "https://diablo2.io/runewords/wind-t1224.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 61,
+    "sockets": 2,
+    "runes": [
+      "Sur",
+      "El"
+    ],
+    "itemTypes": [
+      "Melee Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "10% Chance To Cast Level 9 Tornado On Striking",
+      "+20% Faster Run/Walk",
+      "+40% Increased Attack Speed",
+      "+15% Faster Hit Recovery",
+      "+120-160% Enhanced Damage",
+      "-50% Target Defense",
+      "+50 To Attack Rating",
+      "Hit Blinds Target",
+      "+1 To Light Radius",
+      "Level 13 Twister (127 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Melee Weapons",
+        "sockets": 2,
+        "stats": [
+          "10% Chance To Cast Level 9 Tornado On Striking",
+          "+20% Faster Run/Walk",
+          "+40% Increased Attack Speed",
+          "+15% Faster Hit Recovery",
+          "+120-160% Enhanced Damage",
+          "-50% Target Defense",
+          "+50 To Attack Rating",
+          "Hit Blinds Target",
+          "+1 To Light Radius",
+          "Level 13 Twister (127 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "brand-t1225",
+    "name": "Brand",
+    "url": "https://diablo2.io/runewords/brand-t1225.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 4,
+    "runes": [
+      "Jah",
+      "Lo",
+      "Mal",
+      "Gul"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "35% Chance To Cast Level 14 Amplify Damage When Struck",
+      "100% Chance To Cast Level 18 Bone Spear On Striking",
+      "+260-340% Enhanced Damage",
+      "Ignores Target's Defense",
+      "20% Bonus to Attack Rating",
+      "+280-330% Damage To Demons",
+      "20% Deadly Strike",
+      "Prevent Monster Heal",
+      "Knockback",
+      "Fires Explosive Arrows or Bolts [level 15]"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 4,
+        "stats": [
+          "35% Chance To Cast Level 14 Amplify Damage When Struck",
+          "100% Chance To Cast Level 18 Bone Spear On Striking",
+          "+260-340% Enhanced Damage",
+          "Ignores Target's Defense",
+          "20% Bonus to Attack Rating",
+          "+280-330% Damage To Demons",
+          "20% Deadly Strike",
+          "Prevent Monster Heal",
+          "Knockback",
+          "Fires Explosive Arrows or Bolts [level 15]"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "memory-t1191",
+    "name": "Memory",
+    "url": "https://diablo2.io/runewords/memory-t1191.html",
+    "patch": "Original",
+    "version": null,
+    "level": 37,
+    "sockets": 4,
+    "runes": [
+      "Lum",
+      "Io",
+      "Sol",
+      "Eth"
+    ],
+    "itemTypes": [
+      "Staves"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+3 to Sorceress Skill Levels",
+      "33% Faster Cast Rate",
+      "Increase Maximum Mana 20%",
+      "+3 Energy Shield (Sorceress Only)",
+      "+2 Static Field (Sorceress Only)",
+      "+10 To Energy",
+      "+10 To Vitality",
+      "+9 To Minimum Damage",
+      "-25% Target Defense",
+      "Magic Damage Reduced By 7",
+      "+50% Enhanced Defense"
+    ],
+    "variants": [
+      {
+        "itemType": "Staves",
+        "sockets": 4,
+        "stats": [
+          "+3 to Sorceress Skill Levels",
+          "33% Faster Cast Rate",
+          "Increase Maximum Mana 20%",
+          "+3 Energy Shield (Sorceress Only)",
+          "+2 Static Field (Sorceress Only)",
+          "+10 To Energy",
+          "+10 To Vitality",
+          "+9 To Minimum Damage",
+          "-25% Target Defense",
+          "Magic Damage Reduced By 7",
+          "+50% Enhanced Defense"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "strength-t56",
+    "name": "Strength",
+    "url": "https://diablo2.io/runewords/strength-t56.html",
+    "patch": "Original",
+    "version": null,
+    "level": 25,
+    "sockets": 2,
+    "runes": [
+      "Amn",
+      "Tir"
+    ],
+    "itemTypes": [
+      "Melee Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "35% Enhanced Damage",
+      "25% Chance Of Crushing Blow",
+      "7% Life Stolen Per Hit",
+      "+2 To Mana After Each Kill",
+      "+20 To Strength",
+      "+10 To Vitality"
+    ],
+    "variants": [
+      {
+        "itemType": "Melee Weapons",
+        "sockets": 2,
+        "stats": [
+          "35% Enhanced Damage",
+          "25% Chance Of Crushing Blow",
+          "7% Life Stolen Per Hit",
+          "+2 To Mana After Each Kill",
+          "+20 To Strength",
+          "+10 To Vitality"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "myth-t1249",
+    "name": "Myth",
+    "url": "https://diablo2.io/runewords/myth-t1249.html",
+    "patch": "1.11",
+    "version": null,
+    "level": 25,
+    "sockets": 3,
+    "runes": [
+      "Hel",
+      "Amn",
+      "Nef"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "3% Chance To Cast Level 1 Howl When Struck",
+      "10% Chance To Cast Level 1 Taunt On Striking",
+      "+2 To Barbarian Skill Levels",
+      "+30 Defense Vs. Missile",
+      "Replenish Life +10",
+      "Attacker Takes Damage of 14",
+      "Requirements -15%"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "3% Chance To Cast Level 1 Howl When Struck",
+          "10% Chance To Cast Level 1 Taunt On Striking",
+          "+2 To Barbarian Skill Levels",
+          "+30 Defense Vs. Missile",
+          "Replenish Life +10",
+          "Attacker Takes Damage of 14",
+          "Requirements -15%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "unbending-will-t768058",
+    "name": "Unbending Will",
+    "url": "https://diablo2.io/runewords/unbending-will-t768058.html",
+    "patch": "2.4",
+    "version": "Data updated for 2.4",
+    "level": 41,
+    "sockets": 6,
+    "runes": [
+      "Fal",
+      "Io",
+      "Ith",
+      "Eld",
+      "El",
+      "Hel"
+    ],
+    "itemTypes": [
+      "Swords"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "18% Chance to Cast Level 18 Taunt On Striking",
+      "+3 to Combat Skills (Barbarian Only)",
+      "+20-30% Increased Attack Speed",
+      "+300-350% Enhanced Damage",
+      "+9 to Maximum Damage",
+      "+50 to Attack Rating",
+      "+75% Damage To Undead",
+      "+50 Attack Rating Against Undead",
+      "8-10% Life Stolen Per Hit",
+      "Prevent Monster Heal",
+      "+10 To Strength",
+      "+10 To Vitality",
+      "Damage Reduced by 8",
+      "+1 To Light Radius",
+      "Requirements -20%"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 6,
+        "stats": [
+          "18% Chance to Cast Level 18 Taunt On Striking",
+          "+3 to Combat Skills (Barbarian Only)",
+          "+20-30% Increased Attack Speed",
+          "+300-350% Enhanced Damage",
+          "+9 to Maximum Damage",
+          "+50 to Attack Rating",
+          "+75% Damage To Undead",
+          "+50 Attack Rating Against Undead",
+          "8-10% Life Stolen Per Hit",
+          "Prevent Monster Heal",
+          "+10 To Strength",
+          "+10 To Vitality",
+          "Damage Reduced by 8",
+          "+1 To Light Radius",
+          "Requirements -20%"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "famine-t1214",
+    "name": "Famine",
+    "url": "https://diablo2.io/runewords/famine-t1214.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 65,
+    "sockets": 4,
+    "runes": [
+      "Fal",
+      "Ohm",
+      "Ort",
+      "Jah"
+    ],
+    "itemTypes": [
+      "Axes",
+      "Hammers"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "30% Increased Attack Speed",
+      "+320-370% Enhanced Damage",
+      "Ignore Target's Defense",
+      "Adds 180-200 Magic Damage",
+      "Adds 50-200 Fire Damage",
+      "Adds 51-250 Lightning Damage",
+      "Adds 50-200 Cold Damage",
+      "12% Life Stolen Per Hit",
+      "Prevent Monster Heal",
+      "+10 To Strength"
+    ],
+    "variants": [
+      {
+        "itemType": "Axes",
+        "sockets": 4,
+        "stats": [
+          "30% Increased Attack Speed",
+          "+320-370% Enhanced Damage",
+          "Ignore Target's Defense",
+          "Adds 180-200 Magic Damage",
+          "Adds 50-200 Fire Damage",
+          "Adds 51-250 Lightning Damage",
+          "Adds 50-200 Cold Damage",
+          "12% Life Stolen Per Hit",
+          "Prevent Monster Heal",
+          "+10 To Strength"
+        ]
+      },
+      {
+        "itemType": "Hammers",
+        "sockets": 4,
+        "stats": [
+          "30% Increased Attack Speed",
+          "+320-370% Enhanced Damage",
+          "Ignore Target's Defense",
+          "Adds 180-200 Magic Damage",
+          "Adds 50-200 Fire Damage",
+          "Adds 51-250 Lightning Damage",
+          "Adds 50-200 Cold Damage",
+          "12% Life Stolen Per Hit",
+          "Prevent Monster Heal",
+          "+10 To Strength"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "nadir-t1192",
+    "name": "Nadir",
+    "url": "https://diablo2.io/runewords/nadir-t1192.html",
+    "patch": "Original",
+    "version": null,
+    "level": 13,
+    "sockets": 2,
+    "runes": [
+      "Nef",
+      "Tir"
+    ],
+    "itemTypes": [
+      "Helms"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+50% Enhanced Defense",
+      "+10 Defense",
+      "+30 Defense vs. Missile",
+      "Level 13 Cloak of Shadows (9 Charges)",
+      "+2 To Mana After Each Kill",
+      "+5 To Strength",
+      "-33% Extra Gold From Monsters",
+      "-3 To Light Radius"
+    ],
+    "variants": [
+      {
+        "itemType": "Helms",
+        "sockets": 2,
+        "stats": [
+          "+50% Enhanced Defense",
+          "+10 Defense",
+          "+30 Defense vs. Missile",
+          "Level 13 Cloak of Shadows (9 Charges)",
+          "+2 To Mana After Each Kill",
+          "+5 To Strength",
+          "-33% Extra Gold From Monsters",
+          "-3 To Light Radius"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "passion-t1219",
+    "name": "Passion",
+    "url": "https://diablo2.io/runewords/passion-t1219.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 43,
+    "sockets": 4,
+    "runes": [
+      "Dol",
+      "Ort",
+      "Eld",
+      "Lem"
+    ],
+    "itemTypes": [
+      "Weapons"
+    ],
+    "itemGroups": [
+      "Weapons"
+    ],
+    "stats": [
+      "+25% Increased Attack Speed",
+      "+160-210% Enhanced Damage",
+      "50-80% Bonus To Attack Rating",
+      "+75% Damage To Undead",
+      "+50 To Attack Rating Against Undead",
+      "Adds 1-50 Lightning Damage",
+      "+1 To Berserk",
+      "+1 To Zeal",
+      "Hit Blinds Target +10",
+      "Hit Causes Monster To Flee 25%",
+      "75% Extra Gold From Monsters",
+      "Level 3 Heart of Wolverine (12 Charges)"
+    ],
+    "variants": [
+      {
+        "itemType": "Weapons",
+        "sockets": 4,
+        "stats": [
+          "+25% Increased Attack Speed",
+          "+160-210% Enhanced Damage",
+          "50-80% Bonus To Attack Rating",
+          "+75% Damage To Undead",
+          "+50 To Attack Rating Against Undead",
+          "Adds 1-50 Lightning Damage",
+          "+1 To Berserk",
+          "+1 To Zeal",
+          "Hit Blinds Target +10",
+          "Hit Causes Monster To Flee 25%",
+          "75% Extra Gold From Monsters",
+          "Level 3 Heart of Wolverine (12 Charges)"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "enlightenment-t1248",
+    "name": "Enlightenment",
+    "url": "https://diablo2.io/runewords/enlightenment-t1248.html",
+    "patch": "1.11",
+    "version": null,
+    "level": 45,
+    "sockets": 3,
+    "runes": [
+      "Pul",
+      "Ral",
+      "Sol"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "5% Chance To Cast Level 15 Blaze When Struck",
+      "5% Chance To Cast level 15 Fire Ball On Striking",
+      "+2 To Sorceress Skill Levels",
+      "+1 To Warmth",
+      "+30% Enhanced Defense",
+      "Fire Resist +30%",
+      "Damage Reduced By 7"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 3,
+        "stats": [
+          "5% Chance To Cast Level 15 Blaze When Struck",
+          "5% Chance To Cast level 15 Fire Ball On Striking",
+          "+2 To Sorceress Skill Levels",
+          "+1 To Warmth",
+          "+30% Enhanced Defense",
+          "Fire Resist +30%",
+          "Damage Reduced By 7"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "prudence-t1220",
+    "name": "Prudence",
+    "url": "https://diablo2.io/runewords/prudence-t1220.html",
+    "patch": "1.10",
+    "version": null,
+    "level": 49,
+    "sockets": 2,
+    "runes": [
+      "Mal",
+      "Tir"
+    ],
+    "itemTypes": [
+      "Body Armor"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+25% Faster Hit Recovery",
+      "+140-170% Enhanced Defense",
+      "All Resistances +25-35",
+      "Damage Reduced by 3",
+      "Magic Damage Reduced by 17",
+      "+2 To Mana After Each Kill",
+      "+1 To Light Radius",
+      "Repairs Durability 1 In 4 Seconds"
+    ],
+    "variants": [
+      {
+        "itemType": "Body Armor",
+        "sockets": 2,
+        "stats": [
+          "+25% Faster Hit Recovery",
+          "+140-170% Enhanced Defense",
+          "All Resistances +25-35",
+          "Damage Reduced by 3",
+          "Magic Damage Reduced by 17",
+          "+2 To Mana After Each Kill",
+          "+1 To Light Radius",
+          "Repairs Durability 1 In 4 Seconds"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "zephyr-t1201",
+    "name": "Zephyr",
+    "url": "https://diablo2.io/runewords/zephyr-t1201.html",
+    "patch": "Original",
+    "version": null,
+    "level": 21,
+    "sockets": 2,
+    "runes": [
+      "Ort",
+      "Eth"
+    ],
+    "itemTypes": [
+      "Missile Weapons"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+33% Enhanced Damage",
+      "+66 To Attack Rating",
+      "Adds 1-50 Lightning Damage",
+      "-25% Target Defense",
+      "+25 Defense",
+      "25% Faster Run/Walk",
+      "25% Increased Attack Speed",
+      "7% Chance To Cast Level 1 Twister When Struck"
+    ],
+    "variants": [
+      {
+        "itemType": "Missile Weapons",
+        "sockets": 2,
+        "stats": [
+          "+33% Enhanced Damage",
+          "+66 To Attack Rating",
+          "Adds 1-50 Lightning Damage",
+          "-25% Target Defense",
+          "+25 Defense",
+          "25% Faster Run/Walk",
+          "25% Increased Attack Speed",
+          "7% Chance To Cast Level 1 Twister When Struck"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  },
+  {
+    "id": "king-s-grace-t1186",
+    "name": "King's Grace",
+    "url": "https://diablo2.io/runewords/king-s-grace-t1186.html",
+    "patch": "Original",
+    "version": null,
+    "level": 25,
+    "sockets": 3,
+    "runes": [
+      "Amn",
+      "Ral",
+      "Thul"
+    ],
+    "itemTypes": [
+      "Swords",
+      "Scepters"
+    ],
+    "itemGroups": [],
+    "stats": [
+      "+100% Enhanced Damage",
+      "+100% Damage To Demons",
+      "+50% Damage To Undead",
+      "Adds 5-30 Fire Damage",
+      "Adds 3-14 Cold Damage - 3 Second Duration",
+      "+150 To Attack Rating",
+      "+100 To Attack Rating Against Demons",
+      "+100 To Attack Rating Against Undead",
+      "7% Life Stolen Per Hit"
+    ],
+    "variants": [
+      {
+        "itemType": "Swords",
+        "sockets": 3,
+        "stats": [
+          "+100% Enhanced Damage",
+          "+100% Damage To Demons",
+          "+50% Damage To Undead",
+          "Adds 5-30 Fire Damage",
+          "Adds 3-14 Cold Damage - 3 Second Duration",
+          "+150 To Attack Rating",
+          "+100 To Attack Rating Against Demons",
+          "+100 To Attack Rating Against Undead",
+          "7% Life Stolen Per Hit"
+        ]
+      },
+      {
+        "itemType": "Scepters",
+        "sockets": 3,
+        "stats": [
+          "+100% Enhanced Damage",
+          "+100% Damage To Demons",
+          "+50% Damage To Undead",
+          "Adds 5-30 Fire Damage",
+          "Adds 3-14 Cold Damage - 3 Second Duration",
+          "+150 To Attack Rating",
+          "+100 To Attack Rating Against Demons",
+          "+100 To Attack Rating Against Undead",
+          "7% Life Stolen Per Hit"
+        ]
+      }
+    ],
+    "ladder": true,
+    "nonLadder": true,
+    "ladderNote": "Ladder and Non-Ladder"
+  }
+]
