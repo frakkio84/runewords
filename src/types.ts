@@ -4,6 +4,7 @@ export type RunewordVariant = {
   stats: string[];
 };
 
+export type LadderStatus = 'ladder' | 'all';
 export type LadderFilter = 'ladder' | 'nonLadder' | 'all';
 
 export type Runeword = {
@@ -21,7 +22,7 @@ export type Runeword = {
   variants: RunewordVariant[];
   ladder: boolean;
   nonLadder: boolean;
-  ladderStatus: LadderFilter;
+  ladderStatus: LadderStatus;
   ladderNote: string;
 };
 
