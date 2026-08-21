@@ -8,13 +8,16 @@ type RunewordCardProps = {
 };
 
 function ladderLabel(runeword: Runeword): { text: string; color: string } {
-  if (runeword.ladder && runeword.nonLadder) {
-    return { text: 'Ladder & Non-Ladder', color: colors.muted };
-  }
-  if (runeword.ladder) {
+  if (runeword.ladder && !runeword.nonLadder) {
     return { text: 'Ladder only', color: colors.ladder };
   }
-  return { text: 'Non-Ladder only', color: colors.nonLadder };
+  if (runeword.nonLadder && !runeword.ladder) {
+    return { text: 'Non-Ladder only', color: colors.nonLadder };
+  }
+  if (runeword.ladderNote.startsWith('Still Ladder only')) {
+    return { text: 'Ladder only in LoD', color: colors.ladder };
+  }
+  return { text: 'Ladder & Non-Ladder', color: colors.muted };
 }
 
 export function RunewordCard({ runeword, onPress }: RunewordCardProps) {
@@ -64,7 +67,7 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     marginTop: 4,
     textAlign: 'right',
-    maxWidth: 120,
+    maxWidth: 130,
   },
   runes: {
     color: colors.rune,
