@@ -11,9 +11,6 @@ function ladderLabel(runeword: Runeword): { text: string; color: string } {
   if (runeword.ladderStatus === 'ladder') {
     return { text: 'Ladder', color: colors.ladder };
   }
-  if (runeword.ladderStatus === 'nonLadder') {
-    return { text: 'Non-Ladder', color: colors.nonLadder };
-  }
   return { text: 'All', color: colors.muted };
 }
 

@@ -45,7 +45,7 @@
     "ladder": true,
     "nonLadder": true,
     "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW",
-    "ladderStatus": "all"
+    "ladderStatus": "ladder"
   },
   {
     "id": "hysteria-t1674021",
@@ -91,7 +91,7 @@
     "ladder": true,
     "nonLadder": true,
     "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW",
-    "ladderStatus": "all"
+    "ladderStatus": "ladder"
   },
   {
     "id": "metamorphosis-t1282120",
@@ -153,7 +153,7 @@
     "ladder": true,
     "nonLadder": true,
     "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW",
-    "ladderStatus": "all"
+    "ladderStatus": "ladder"
   },
   {
     "id": "ground-t1282115",
@@ -197,7 +197,7 @@
     "ladder": true,
     "nonLadder": true,
     "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW",
-    "ladderStatus": "all"
+    "ladderStatus": "ladder"
   },
   {
     "id": "temper-t1282117",
@@ -241,7 +241,7 @@
     "ladder": true,
     "nonLadder": true,
     "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW",
-    "ladderStatus": "all"
+    "ladderStatus": "ladder"
   },
   {
     "id": "hearth-t1282116",
@@ -287,7 +287,7 @@
     "ladder": true,
     "nonLadder": true,
     "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW",
-    "ladderStatus": "all"
+    "ladderStatus": "ladder"
   },
   {
     "id": "cure-t1282114",
@@ -333,7 +333,7 @@
     "ladder": true,
     "nonLadder": true,
     "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW",
-    "ladderStatus": "all"
+    "ladderStatus": "ladder"
   },
   {
     "id": "bulwark-t1282113",
@@ -381,7 +381,7 @@
     "ladder": true,
     "nonLadder": true,
     "ladderNote": "Still Ladder only in LoD; can be made in Non-Ladder on RotW",
-    "ladderStatus": "all"
+    "ladderStatus": "ladder"
   },
   {
     "id": "authority-t1673934",
@@ -2630,8 +2630,8 @@
     ],
     "ladder": false,
     "nonLadder": true,
-    "ladderNote": "Non-Ladder only",
-    "ladderStatus": "nonLadder"
+    "ladderNote": "Ladder only (temporarily Non-Ladder)",
+    "ladderStatus": "ladder"
   },
   {
     "id": "leaf-t57",
