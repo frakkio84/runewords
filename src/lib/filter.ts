@@ -1,17 +1,6 @@
 import type { Runeword, RunewordFilters } from '../types';
 import { matchesItemType } from './itemTypes';
 
-export function isLadderOnly(runeword: Runeword): boolean {
-  if (runeword.ladder && !runeword.nonLadder) {
-    return true;
-  }
-  return runeword.ladderNote.startsWith('Still Ladder only');
-}
-
-export function isNonLadderOnly(runeword: Runeword): boolean {
-  return runeword.nonLadder && !runeword.ladder;
-}
-
 export function filterRunewords(
   runewords: Runeword[],
   filters: RunewordFilters,
@@ -27,11 +16,11 @@ export function filterRunewords(
         return false;
       }
 
-      if (filters.ladder === 'ladder' && !isLadderOnly(runeword)) {
+      if (filters.ladder === 'ladder' && runeword.ladderStatus !== 'ladder') {
         return false;
       }
 
-      if (filters.ladder === 'nonLadder' && !isNonLadderOnly(runeword)) {
+      if (filters.ladder === 'nonLadder' && runeword.ladderStatus === 'ladder') {
         return false;
       }
 
