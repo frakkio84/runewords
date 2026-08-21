@@ -16,10 +16,11 @@ export function filterRunewords(
         return false;
       }
 
-      if (
-        filters.ladder !== 'all' &&
-        runeword.ladderStatus !== filters.ladder
-      ) {
+      if (filters.ladder === 'ladder' && runeword.ladderStatus !== 'ladder') {
+        return false;
+      }
+
+      if (filters.ladder === 'nonLadder' && runeword.ladderStatus === 'ladder') {
         return false;
       }
 

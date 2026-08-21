@@ -58,16 +58,17 @@ assert(ladder.length === 1, `expected 1 ladder word, got ${ladder.length}`);
 
 const nonLadder = names({ ladder: 'nonLadder' });
 assert(nonLadder.includes('Mosaic'), 'Mosaic is non-ladder');
+assert(nonLadder.includes('Enigma'), 'unrestricted words are non-ladder');
+assert(nonLadder.includes('Mania'), 'dual-availability words are non-ladder');
 assert(!nonLadder.includes('Hustle'), 'Hustle is not non-ladder');
-assert(!nonLadder.includes('Enigma'), 'unrestricted words are not non-ladder');
 assert(
   nonLadder.every((name) => {
     const runeword = runewords.find((item) => item.name === name);
-    return runeword?.ladderStatus === 'nonLadder';
+    return runeword?.ladderStatus !== 'ladder';
   }),
-  'Non-Ladder filter must use ladderStatus',
+  'Non-Ladder is every runeword except ladder',
 );
-assert(nonLadder.length === 1, `expected 1 non-ladder word, got ${nonLadder.length}`);
+assert(nonLadder.length === 99, `expected 99 non-ladder words, got ${nonLadder.length}`);
 
 assert(names({ ladder: 'all' }).length === 100, 'All shows every runeword');
 assert(
