@@ -9,8 +9,8 @@ const SOCKET_OPTIONS = [2, 3, 4, 5, 6];
 
 const LADDER_OPTIONS: ReadonlyArray<{ value: LadderFilter; label: string }> = [
   { value: 'all', label: 'All' },
-  { value: 'ladder', label: 'Ladder' },
-  { value: 'nonLadder', label: 'Non-Ladder' },
+  { value: 'ladder', label: 'Ladder only' },
+  { value: 'nonLadder', label: 'Non-Ladder only' },
 ];
 
 type FilterBarProps = {
